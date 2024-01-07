@@ -1,1063 +1,1063 @@
-Airports in Ireland,Country,Direction,VALUE,year,month,real_number
-Dublin,All Countries,Arrival,1056.4,2023,1,1056400
-Dublin,All Countries,Departure,1014.5,2023,1,1014500
-Dublin,Ireland (domestic),Arrival,5.7,2023,1,5700
-Dublin,Ireland (domestic),Departure,3.7,2023,1,3700
-Dublin,Austria,Arrival,8.7,2023,1,8700
-Dublin,Austria,Departure,7.9,2023,1,7900
-Dublin,Belgium,Arrival,17.4,2023,1,17400
-Dublin,Belgium,Departure,16.9,2023,1,16900
-Dublin,Bulgaria,Arrival,6.1,2023,1,6100
-Dublin,Bulgaria,Departure,5.4,2023,1,5400
-Dublin,Croatia,Arrival,3.1,2023,1,3100
-Dublin,Croatia,Departure,2.7,2023,1,2700
-Dublin,Cyprus,Arrival,0.8,2023,1,800
-Dublin,Cyprus,Departure,0.7,2023,1,700
-Dublin,Czechia,Arrival,8.1,2023,1,8100
-Dublin,Czechia,Departure,7.5,2023,1,7500
-Dublin,Denmark,Arrival,8.6,2023,1,8600
-Dublin,Denmark,Departure,8.3,2023,1,8300
-Dublin,Estonia,Arrival,1.5,2023,1,1500
-Dublin,Estonia,Departure,1.4,2023,1,1400
-Dublin,Finland,Arrival,5.1,2023,1,5100
-Dublin,Finland,Departure,4.8,2023,1,4800
-Dublin,France,Arrival,72.4,2023,1,72400
-Dublin,France,Departure,66.2,2023,1,66200
-Dublin,Germany,Arrival,63.8,2023,1,63800
-Dublin,Germany,Departure,59.8,2023,1,59800
-Dublin,Greece,Arrival,2.2,2023,1,2200
-Dublin,Greece,Departure,2.0,2023,1,2000
-Dublin,Hungary,Arrival,8.6,2023,1,8600
-Dublin,Hungary,Departure,7.7,2023,1,7700
-Dublin,Italy,Arrival,52.6,2023,1,52600
-Dublin,Italy,Departure,47.6,2023,1,47600
-Dublin,Latvia,Arrival,4.6,2023,1,4600
-Dublin,Latvia,Departure,4.4,2023,1,4400
-Dublin,Lithuania,Arrival,10.1,2023,1,10100
-Dublin,Lithuania,Departure,8.8,2023,1,8800
-Dublin,Luxembourg,Arrival,3.5,2023,1,3500
-Dublin,Luxembourg,Departure,3.5,2023,1,3500
-Dublin,Malta,Arrival,2.5,2023,1,2500
-Dublin,Malta,Departure,2.6,2023,1,2600
-Dublin,Netherlands,Arrival,44.8,2023,1,44800
-Dublin,Netherlands,Departure,44.9,2023,1,44900
-Dublin,Poland,Arrival,40.8,2023,1,40800
-Dublin,Poland,Departure,33.9,2023,1,33900
-Dublin,Portugal,Arrival,33.1,2023,1,33100
-Dublin,Portugal,Departure,27.8,2023,1,27800
-Dublin,Romania,Arrival,17.2,2023,1,17200
-Dublin,Romania,Departure,10.9,2023,1,10900
-Dublin,Slovakia,Arrival,5.1,2023,1,5100
-Dublin,Slovakia,Departure,4.4,2023,1,4400
-Dublin,Slovenia,Arrival,0.0,2023,1,0
-Dublin,Slovenia,Departure,0.0,2023,1,0
-Dublin,Spain,Arrival,85.2,2023,1,85200
-Dublin,Spain,Departure,73.5,2023,1,73500
-Dublin,Canary Islands,Arrival,42.7,2023,1,42700
-Dublin,Canary Islands,Departure,40.0,2023,1,40000
-Dublin,Sweden,Arrival,2.9,2023,1,2900
-Dublin,Sweden,Departure,3.2,2023,1,3200
-Dublin,EU27 excl Ireland 2020,Arrival,551.5,2023,1,551500
-Dublin,EU27 excl Ireland 2020,Departure,496.9,2023,1,496900
-Dublin,United Kingdom (1),Arrival,321.8,2023,1,321800
-Dublin,United Kingdom (1),Departure,335.4,2023,1,335400
-Dublin,England,Arrival,276.4,2023,1,276400
-Dublin,England,Departure,288.6,2023,1,288600
-Dublin,Northern Ireland,Arrival,0.0,2023,1,0
-Dublin,Northern Ireland,Departure,0.0,2023,1,0
-Dublin,Scotland,Arrival,42.0,2023,1,42000
-Dublin,Scotland,Departure,43.1,2023,1,43100
-Dublin,Wales,Arrival,2.4,2023,1,2400
-Dublin,Wales,Departure,2.6,2023,1,2600
-Dublin,Other UK (1),Arrival,1.0,2023,1,1000
-Dublin,Other UK (1),Departure,1.2,2023,1,1200
-Dublin,Iceland,Arrival,5.5,2023,1,5500
-Dublin,Iceland,Departure,5.3,2023,1,5300
-Dublin,Norway,Arrival,1.8,2023,1,1800
-Dublin,Norway,Departure,2.0,2023,1,2000
-Dublin,Russia,Arrival,0.0,2023,1,0
-Dublin,Russia,Departure,0.0,2023,1,0
-Dublin,Serbia,Arrival,0.0,2023,1,0
-Dublin,Serbia,Departure,0.0,2023,1,0
-Dublin,Switzerland,Arrival,16.4,2023,1,16400
-Dublin,Switzerland,Departure,16.3,2023,1,16300
-Dublin,Turkiye,Arrival,13.6,2023,1,13600
-Dublin,Turkiye,Departure,12.4,2023,1,12400
-Dublin,Other Europe (3),Arrival,7.4,2023,1,7400
-Dublin,Other Europe (3),Departure,3.5,2023,1,3500
-Dublin,Europe (48 Countries),Arrival,923.7,2023,1,923700
-Dublin,Europe (48 Countries),Departure,875.6,2023,1,875600
-Dublin,America,Arrival,87.0,2023,1,87000
-Dublin,America,Departure,94.5,2023,1,94500
-Dublin,Canada,Arrival,9.3,2023,1,9300
-Dublin,Canada,Departure,9.8,2023,1,9800
-Dublin,United States,Arrival,77.7,2023,1,77700
-Dublin,United States,Departure,84.7,2023,1,84700
-Dublin,Other America (5),Arrival,0.0,2023,1,0
-Dublin,Other America (5),Departure,0.0,2023,1,0
-Dublin,Africa (9),Arrival,5.5,2023,1,5500
-Dublin,Africa (9),Departure,4.7,2023,1,4700
-Dublin,Eygpt,Arrival,2.0,2023,1,2000
-Dublin,Eygpt,Departure,1.4,2023,1,1400
-Dublin,Morocco,Arrival,3.5,2023,1,3500
-Dublin,Morocco,Departure,3.3,2023,1,3300
-Dublin,Tunisia,Arrival,0.0,2023,1,0
-Dublin,Tunisia,Departure,0.0,2023,1,0
-Dublin,Other Africa (6),Arrival,0.0,2023,1,0
-Dublin,Other Africa (6),Departure,0.0,2023,1,0
-Dublin,Asia (8),Arrival,40.1,2023,1,40100
-Dublin,Asia (8),Departure,39.7,2023,1,39700
-Dublin,Bahrain,Arrival,0.0,2023,1,0
-Dublin,Bahrain,Departure,0.0,2023,1,0
-Dublin,Israel,Arrival,0.0,2023,1,0
-Dublin,Israel,Departure,0.0,2023,1,0
-Dublin,United Arab Emirates,Arrival,28.1,2023,1,28100
-Dublin,United Arab Emirates,Departure,27.8,2023,1,27800
-Dublin,Other Asian countries (4),Arrival,12.1,2023,1,12100
-Dublin,Other Asian countries (4),Departure,11.9,2023,1,11900
-Dublin,Oceania and Polar regions (1),Arrival,0.0,2023,1,0
-Dublin,Oceania and Polar regions (1),Departure,0.0,2023,1,0
-Dublin,All Countries,Arrival,1006.3,2023,2,1006300
-Dublin,All Countries,Departure,994.0,2023,2,994000
-Dublin,Ireland (domestic),Arrival,6.2,2023,2,6200
-Dublin,Ireland (domestic),Departure,4.7,2023,2,4700
-Dublin,Austria,Arrival,8.6,2023,2,8600
-Dublin,Austria,Departure,8.4,2023,2,8400
-Dublin,Belgium,Arrival,17.1,2023,2,17100
-Dublin,Belgium,Departure,16.5,2023,2,16500
-Dublin,Bulgaria,Arrival,5.2,2023,2,5200
-Dublin,Bulgaria,Departure,5.1,2023,2,5100
-Dublin,Croatia,Arrival,2.2,2023,2,2200
-Dublin,Croatia,Departure,2.2,2023,2,2200
-Dublin,Cyprus,Arrival,0.6,2023,2,600
-Dublin,Cyprus,Departure,0.7,2023,2,700
-Dublin,Czechia,Arrival,7.3,2023,2,7300
-Dublin,Czechia,Departure,7.2,2023,2,7200
-Dublin,Denmark,Arrival,8.5,2023,2,8500
-Dublin,Denmark,Departure,8.7,2023,2,8700
-Dublin,Estonia,Arrival,1.3,2023,2,1300
-Dublin,Estonia,Departure,1.3,2023,2,1300
-Dublin,Finland,Arrival,4.2,2023,2,4200
-Dublin,Finland,Departure,3.9,2023,2,3900
-Dublin,France,Arrival,69.1,2023,2,69100
-Dublin,France,Departure,66.9,2023,2,66900
-Dublin,Germany,Arrival,59.7,2023,2,59700
-Dublin,Germany,Departure,58.7,2023,2,58700
-Dublin,Greece,Arrival,1.4,2023,2,1400
-Dublin,Greece,Departure,1.4,2023,2,1400
-Dublin,Hungary,Arrival,7.0,2023,2,7000
-Dublin,Hungary,Departure,7.1,2023,2,7100
-Dublin,Italy,Arrival,49.8,2023,2,49800
-Dublin,Italy,Departure,50.4,2023,2,50400
-Dublin,Latvia,Arrival,3.7,2023,2,3700
-Dublin,Latvia,Departure,3.6,2023,2,3600
-Dublin,Lithuania,Arrival,8.5,2023,2,8500
-Dublin,Lithuania,Departure,8.5,2023,2,8500
-Dublin,Luxembourg,Arrival,3.5,2023,2,3500
-Dublin,Luxembourg,Departure,3.5,2023,2,3500
-Dublin,Malta,Arrival,2.1,2023,2,2100
-Dublin,Malta,Departure,2.1,2023,2,2100
-Dublin,Netherlands,Arrival,44.3,2023,2,44300
-Dublin,Netherlands,Departure,41.3,2023,2,41300
-Dublin,Poland,Arrival,33.6,2023,2,33600
-Dublin,Poland,Departure,33.0,2023,2,33000
-Dublin,Portugal,Arrival,30.5,2023,2,30500
-Dublin,Portugal,Departure,32.0,2023,2,32000
-Dublin,Romania,Arrival,12.3,2023,2,12300
-Dublin,Romania,Departure,11.1,2023,2,11100
-Dublin,Slovakia,Arrival,4.3,2023,2,4300
-Dublin,Slovakia,Departure,4.1,2023,2,4100
-Dublin,Slovenia,Arrival,0.0,2023,2,0
-Dublin,Slovenia,Departure,0.0,2023,2,0
-Dublin,Spain,Arrival,75.9,2023,2,75900
-Dublin,Spain,Departure,76.6,2023,2,76600
-Dublin,Canary Islands,Arrival,37.2,2023,2,37200
-Dublin,Canary Islands,Departure,36.7,2023,2,36700
-Dublin,Sweden,Arrival,3.3,2023,2,3300
-Dublin,Sweden,Departure,3.3,2023,2,3300
-Dublin,EU27 excl Ireland 2020,Arrival,501.3,2023,2,501300
-Dublin,EU27 excl Ireland 2020,Departure,494.6,2023,2,494600
-Dublin,United Kingdom (1),Arrival,347.3,2023,2,347300
-Dublin,United Kingdom (1),Departure,345.8,2023,2,345800
-Dublin,England,Arrival,298.6,2023,2,298600
-Dublin,England,Departure,297.9,2023,2,297900
-Dublin,Northern Ireland,Arrival,1.2,2023,2,1200
-Dublin,Northern Ireland,Departure,0.0,2023,2,0
-Dublin,Scotland,Arrival,42.5,2023,2,42500
-Dublin,Scotland,Departure,42.7,2023,2,42700
-Dublin,Wales,Arrival,4.0,2023,2,4000
-Dublin,Wales,Departure,4.0,2023,2,4000
-Dublin,Other UK (1),Arrival,1.0,2023,2,1000
-Dublin,Other UK (1),Departure,1.2,2023,2,1200
-Dublin,Iceland,Arrival,5.4,2023,2,5400
-Dublin,Iceland,Departure,5.5,2023,2,5500
-Dublin,Norway,Arrival,2.6,2023,2,2600
-Dublin,Norway,Departure,2.7,2023,2,2700
-Dublin,Russia,Arrival,0.0,2023,2,0
-Dublin,Russia,Departure,0.0,2023,2,0
-Dublin,Serbia,Arrival,0.0,2023,2,0
-Dublin,Serbia,Departure,0.0,2023,2,0
-Dublin,Switzerland,Arrival,16.5,2023,2,16500
-Dublin,Switzerland,Departure,16.7,2023,2,16700
-Dublin,Turkiye,Arrival,10.6,2023,2,10600
-Dublin,Turkiye,Departure,9.9,2023,2,9900
-Dublin,Other Europe (3),Arrival,4.6,2023,2,4600
-Dublin,Other Europe (3),Departure,3.2,2023,2,3200
-Dublin,Europe (48 Countries),Arrival,894.5,2023,2,894500
-Dublin,Europe (48 Countries),Departure,883.1,2023,2,883100
-Dublin,America,Arrival,72.4,2023,2,72400
-Dublin,America,Departure,74.0,2023,2,74000
-Dublin,Canada,Arrival,9.0,2023,2,9000
-Dublin,Canada,Departure,9.2,2023,2,9200
-Dublin,United States,Arrival,63.4,2023,2,63400
-Dublin,United States,Departure,64.8,2023,2,64800
-Dublin,Other America (5),Arrival,0.0,2023,2,0
-Dublin,Other America (5),Departure,0.0,2023,2,0
-Dublin,Africa (9),Arrival,4.3,2023,2,4300
-Dublin,Africa (9),Departure,4.2,2023,2,4200
-Dublin,Eygpt,Arrival,1.5,2023,2,1500
-Dublin,Eygpt,Departure,1.5,2023,2,1500
-Dublin,Morocco,Arrival,2.7,2023,2,2700
-Dublin,Morocco,Departure,2.7,2023,2,2700
-Dublin,Tunisia,Arrival,0.0,2023,2,0
-Dublin,Tunisia,Departure,0.0,2023,2,0
-Dublin,Other Africa (6),Arrival,0.0,2023,2,0
-Dublin,Other Africa (6),Departure,0.0,2023,2,0
-Dublin,Asia (8),Arrival,35.2,2023,2,35200
-Dublin,Asia (8),Departure,32.7,2023,2,32700
-Dublin,Bahrain,Arrival,0.0,2023,2,0
-Dublin,Bahrain,Departure,0.0,2023,2,0
-Dublin,Israel,Arrival,0.0,2023,2,0
-Dublin,Israel,Departure,0.0,2023,2,0
-Dublin,United Arab Emirates,Arrival,24.4,2023,2,24400
-Dublin,United Arab Emirates,Departure,23.6,2023,2,23600
-Dublin,Other Asian countries (4),Arrival,10.8,2023,2,10800
-Dublin,Other Asian countries (4),Departure,9.1,2023,2,9100
-Dublin,Oceania and Polar regions (1),Arrival,0.0,2023,2,0
-Dublin,Oceania and Polar regions (1),Departure,0.0,2023,2,0
-Dublin,All Countries,Arrival,1219.3,2023,3,1219300
-Dublin,All Countries,Departure,1225.6,2023,3,1225600
-Dublin,Ireland (domestic),Arrival,4.6,2023,3,4600
-Dublin,Ireland (domestic),Departure,4.3,2023,3,4300
-Dublin,Austria,Arrival,10.4,2023,3,10400
-Dublin,Austria,Departure,10.1,2023,3,10100
-Dublin,Belgium,Arrival,20.3,2023,3,20300
-Dublin,Belgium,Departure,20.2,2023,3,20200
-Dublin,Bulgaria,Arrival,5.0,2023,3,5000
-Dublin,Bulgaria,Departure,4.8,2023,3,4800
-Dublin,Croatia,Arrival,3.0,2023,3,3000
-Dublin,Croatia,Departure,3.9,2023,3,3900
-Dublin,Cyprus,Arrival,0.9,2023,3,900
-Dublin,Cyprus,Departure,1.1,2023,3,1100
-Dublin,Czechia,Arrival,8.4,2023,3,8400
-Dublin,Czechia,Departure,8.4,2023,3,8400
-Dublin,Denmark,Arrival,10.9,2023,3,10900
-Dublin,Denmark,Departure,11.0,2023,3,11000
-Dublin,Estonia,Arrival,1.2,2023,3,1200
-Dublin,Estonia,Departure,1.3,2023,3,1300
-Dublin,Finland,Arrival,4.6,2023,3,4600
-Dublin,Finland,Departure,4.5,2023,3,4500
-Dublin,France,Arrival,76.7,2023,3,76700
-Dublin,France,Departure,81.2,2023,3,81200
-Dublin,Germany,Arrival,76.4,2023,3,76400
-Dublin,Germany,Departure,74.2,2023,3,74200
-Dublin,Greece,Arrival,3.0,2023,3,3000
-Dublin,Greece,Departure,4.1,2023,3,4100
-Dublin,Hungary,Arrival,9.3,2023,3,9300
-Dublin,Hungary,Departure,9.5,2023,3,9500
-Dublin,Italy,Arrival,60.1,2023,3,60100
-Dublin,Italy,Departure,62.6,2023,3,62600
-Dublin,Latvia,Arrival,4.0,2023,3,4000
-Dublin,Latvia,Departure,4.0,2023,3,4000
-Dublin,Lithuania,Arrival,8.5,2023,3,8500
-Dublin,Lithuania,Departure,8.7,2023,3,8700
-Dublin,Luxembourg,Arrival,4.2,2023,3,4200
-Dublin,Luxembourg,Departure,4.1,2023,3,4100
-Dublin,Malta,Arrival,2.3,2023,3,2300
-Dublin,Malta,Departure,2.3,2023,3,2300
-Dublin,Netherlands,Arrival,50.9,2023,3,50900
-Dublin,Netherlands,Departure,52.1,2023,3,52100
-Dublin,Poland,Arrival,36.3,2023,3,36300
-Dublin,Poland,Departure,36.5,2023,3,36500
-Dublin,Portugal,Arrival,40.2,2023,3,40200
-Dublin,Portugal,Departure,44.1,2023,3,44100
-Dublin,Romania,Arrival,12.5,2023,3,12500
-Dublin,Romania,Departure,12.8,2023,3,12800
-Dublin,Slovakia,Arrival,4.2,2023,3,4200
-Dublin,Slovakia,Departure,4.1,2023,3,4100
-Dublin,Slovenia,Arrival,0.0,2023,3,0
-Dublin,Slovenia,Departure,0.0,2023,3,0
-Dublin,Spain,Arrival,95.2,2023,3,95200
-Dublin,Spain,Departure,104.6,2023,3,104600
-Dublin,Canary Islands,Arrival,39.4,2023,3,39400
-Dublin,Canary Islands,Departure,40.7,2023,3,40700
-Dublin,Sweden,Arrival,4.8,2023,3,4800
-Dublin,Sweden,Departure,4.9,2023,3,4900
-Dublin,EU27 excl Ireland 2020,Arrival,592.6,2023,3,592600
-Dublin,EU27 excl Ireland 2020,Departure,615.7,2023,3,615700
-Dublin,United Kingdom (1),Arrival,394.4,2023,3,394400
-Dublin,United Kingdom (1),Departure,384.9,2023,3,384900
-Dublin,England,Arrival,340.4,2023,3,340400
-Dublin,England,Departure,330.7,2023,3,330700
-Dublin,Northern Ireland,Arrival,0.0,2023,3,0
-Dublin,Northern Ireland,Departure,0.0,2023,3,0
-Dublin,Scotland,Arrival,49.8,2023,3,49800
-Dublin,Scotland,Departure,49.8,2023,3,49800
-Dublin,Wales,Arrival,2.8,2023,3,2800
-Dublin,Wales,Departure,2.9,2023,3,2900
-Dublin,Other UK (1),Arrival,1.5,2023,3,1500
-Dublin,Other UK (1),Departure,1.5,2023,3,1500
-Dublin,Iceland,Arrival,7.1,2023,3,7100
-Dublin,Iceland,Departure,6.9,2023,3,6900
-Dublin,Norway,Arrival,3.5,2023,3,3500
-Dublin,Norway,Departure,3.5,2023,3,3500
-Dublin,Russia,Arrival,0.0,2023,3,0
-Dublin,Russia,Departure,0.0,2023,3,0
-Dublin,Serbia,Arrival,0.0,2023,3,0
-Dublin,Serbia,Departure,0.0,2023,3,0
-Dublin,Switzerland,Arrival,19.3,2023,3,19300
-Dublin,Switzerland,Departure,18.4,2023,3,18400
-Dublin,Turkiye,Arrival,11.9,2023,3,11900
-Dublin,Turkiye,Departure,12.6,2023,3,12600
-Dublin,Other Europe (3),Arrival,3.5,2023,3,3500
-Dublin,Other Europe (3),Departure,3.7,2023,3,3700
-Dublin,Europe (48 Countries),Arrival,1036.9,2023,3,1036900
-Dublin,Europe (48 Countries),Departure,1050.0,2023,3,1050000
-Dublin,America,Arrival,136.2,2023,3,136200
-Dublin,America,Departure,135.3,2023,3,135300
-Dublin,Canada,Arrival,12.3,2023,3,12300
-Dublin,Canada,Departure,13.1,2023,3,13100
-Dublin,United States,Arrival,123.9,2023,3,123900
-Dublin,United States,Departure,122.2,2023,3,122200
-Dublin,Other America (5),Arrival,0.0,2023,3,0
-Dublin,Other America (5),Departure,0.0,2023,3,0
-Dublin,Africa (9),Arrival,4.7,2023,3,4700
-Dublin,Africa (9),Departure,4.7,2023,3,4700
-Dublin,Eygpt,Arrival,1.7,2023,3,1700
-Dublin,Eygpt,Departure,1.7,2023,3,1700
-Dublin,Morocco,Arrival,3.0,2023,3,3000
-Dublin,Morocco,Departure,3.0,2023,3,3000
-Dublin,Tunisia,Arrival,0.0,2023,3,0
-Dublin,Tunisia,Departure,0.0,2023,3,0
-Dublin,Other Africa (6),Arrival,0.0,2023,3,0
-Dublin,Other Africa (6),Departure,0.0,2023,3,0
-Dublin,Asia (8),Arrival,41.6,2023,3,41600
-Dublin,Asia (8),Departure,35.6,2023,3,35600
-Dublin,Bahrain,Arrival,0.0,2023,3,0
-Dublin,Bahrain,Departure,0.0,2023,3,0
-Dublin,Israel,Arrival,0.8,2023,3,800
-Dublin,Israel,Departure,0.6,2023,3,600
-Dublin,United Arab Emirates,Arrival,28.3,2023,3,28300
-Dublin,United Arab Emirates,Departure,25.0,2023,3,25000
-Dublin,Other Asian countries (4),Arrival,12.5,2023,3,12500
-Dublin,Other Asian countries (4),Departure,9.9,2023,3,9900
-Dublin,Oceania and Polar regions (1),Arrival,0.0,2023,3,0
-Dublin,Oceania and Polar regions (1),Departure,0.0,2023,3,0
-Dublin,All Countries,Arrival,1411.5,2023,4,1411500
-Dublin,All Countries,Departure,1391.0,2023,4,1391000
-Dublin,Ireland (domestic),Arrival,6.6,2023,4,6600
-Dublin,Ireland (domestic),Departure,5.4,2023,4,5400
-Dublin,Austria,Arrival,8.4,2023,4,8400
-Dublin,Austria,Departure,8.2,2023,4,8200
-Dublin,Belgium,Arrival,23.3,2023,4,23300
-Dublin,Belgium,Departure,21.8,2023,4,21800
-Dublin,Bulgaria,Arrival,1.5,2023,4,1500
-Dublin,Bulgaria,Departure,1.7,2023,4,1700
-Dublin,Croatia,Arrival,10.0,2023,4,10000
-Dublin,Croatia,Departure,10.8,2023,4,10800
-Dublin,Cyprus,Arrival,1.4,2023,4,1400
-Dublin,Cyprus,Departure,1.4,2023,4,1400
-Dublin,Czechia,Arrival,7.2,2023,4,7200
-Dublin,Czechia,Departure,7.2,2023,4,7200
-Dublin,Denmark,Arrival,14.9,2023,4,14900
-Dublin,Denmark,Departure,15.0,2023,4,15000
-Dublin,Estonia,Arrival,0.0,2023,4,0
-Dublin,Estonia,Departure,0.0,2023,4,0
-Dublin,Finland,Arrival,3.0,2023,4,3000
-Dublin,Finland,Departure,2.9,2023,4,2900
-Dublin,France,Arrival,98.0,2023,4,98000
-Dublin,France,Departure,91.7,2023,4,91700
-Dublin,Germany,Arrival,90.3,2023,4,90300
-Dublin,Germany,Departure,87.9,2023,4,87900
-Dublin,Greece,Arrival,11.2,2023,4,11200
-Dublin,Greece,Departure,13.1,2023,4,13100
-Dublin,Hungary,Arrival,8.0,2023,4,8000
-Dublin,Hungary,Departure,8.0,2023,4,8000
-Dublin,Italy,Arrival,81.5,2023,4,81500
-Dublin,Italy,Departure,80.1,2023,4,80100
-Dublin,Latvia,Arrival,4.2,2023,4,4200
-Dublin,Latvia,Departure,4.3,2023,4,4300
-Dublin,Lithuania,Arrival,6.5,2023,4,6500
-Dublin,Lithuania,Departure,6.5,2023,4,6500
-Dublin,Luxembourg,Arrival,4.4,2023,4,4400
-Dublin,Luxembourg,Departure,4.2,2023,4,4200
-Dublin,Malta,Arrival,3.0,2023,4,3000
-Dublin,Malta,Departure,3.1,2023,4,3100
-Dublin,Netherlands,Arrival,54.2,2023,4,54200
-Dublin,Netherlands,Departure,50.9,2023,4,50900
-Dublin,Poland,Arrival,34.1,2023,4,34100
-Dublin,Poland,Departure,33.4,2023,4,33400
-Dublin,Portugal,Arrival,61.2,2023,4,61200
-Dublin,Portugal,Departure,60.7,2023,4,60700
-Dublin,Romania,Arrival,12.7,2023,4,12700
-Dublin,Romania,Departure,13.3,2023,4,13300
-Dublin,Slovakia,Arrival,3.3,2023,4,3300
-Dublin,Slovakia,Departure,3.3,2023,4,3300
-Dublin,Slovenia,Arrival,0.0,2023,4,0
-Dublin,Slovenia,Departure,0.0,2023,4,0
-Dublin,Spain,Arrival,151.9,2023,4,151900
-Dublin,Spain,Departure,155.0,2023,4,155000
-Dublin,Canary Islands,Arrival,41.0,2023,4,41000
-Dublin,Canary Islands,Departure,40.3,2023,4,40300
-Dublin,Sweden,Arrival,8.4,2023,4,8400
-Dublin,Sweden,Departure,8.1,2023,4,8100
-Dublin,EU27 excl Ireland 2020,Arrival,743.6,2023,4,743600
-Dublin,EU27 excl Ireland 2020,Departure,732.8,2023,4,732800
-Dublin,United Kingdom (1),Arrival,405.4,2023,4,405400
-Dublin,United Kingdom (1),Departure,406.9,2023,4,406900
-Dublin,England,Arrival,344.3,2023,4,344300
-Dublin,England,Departure,345.1,2023,4,345100
-Dublin,Northern Ireland,Arrival,0.0,2023,4,0
-Dublin,Northern Ireland,Departure,0.0,2023,4,0
-Dublin,Scotland,Arrival,54.4,2023,4,54400
-Dublin,Scotland,Departure,54.5,2023,4,54500
-Dublin,Wales,Arrival,3.8,2023,4,3800
-Dublin,Wales,Departure,4.0,2023,4,4000
-Dublin,Other UK (1),Arrival,3.0,2023,4,3000
-Dublin,Other UK (1),Departure,3.2,2023,4,3200
-Dublin,Iceland,Arrival,7.2,2023,4,7200
-Dublin,Iceland,Departure,6.7,2023,4,6700
-Dublin,Norway,Arrival,4.2,2023,4,4200
-Dublin,Norway,Departure,4.3,2023,4,4300
-Dublin,Russia,Arrival,0.0,2023,4,0
-Dublin,Russia,Departure,0.0,2023,4,0
-Dublin,Serbia,Arrival,0.0,2023,4,0
-Dublin,Serbia,Departure,0.0,2023,4,0
-Dublin,Switzerland,Arrival,19.4,2023,4,19400
-Dublin,Switzerland,Departure,17.6,2023,4,17600
-Dublin,Turkiye,Arrival,16.6,2023,4,16600
-Dublin,Turkiye,Departure,17.6,2023,4,17600
-Dublin,Other Europe (3),Arrival,4.6,2023,4,4600
-Dublin,Other Europe (3),Departure,5.8,2023,4,5800
-Dublin,Europe (48 Countries),Arrival,1207.5,2023,4,1207500
-Dublin,Europe (48 Countries),Departure,1197.1,2023,4,1197100
-Dublin,America,Arrival,156.8,2023,4,156800
-Dublin,America,Departure,153.0,2023,4,153000
-Dublin,Canada,Arrival,16.5,2023,4,16500
-Dublin,Canada,Departure,16.5,2023,4,16500
-Dublin,United States,Arrival,140.3,2023,4,140300
-Dublin,United States,Departure,136.6,2023,4,136600
-Dublin,Other America (5),Arrival,0.0,2023,4,0
-Dublin,Other America (5),Departure,0.0,2023,4,0
-Dublin,Africa (9),Arrival,4.8,2023,4,4800
-Dublin,Africa (9),Departure,4.9,2023,4,4900
-Dublin,Eygpt,Arrival,1.9,2023,4,1900
-Dublin,Eygpt,Departure,1.9,2023,4,1900
-Dublin,Morocco,Arrival,3.0,2023,4,3000
-Dublin,Morocco,Departure,3.0,2023,4,3000
-Dublin,Tunisia,Arrival,0.0,2023,4,0
-Dublin,Tunisia,Departure,0.0,2023,4,0
-Dublin,Other Africa (6),Arrival,0.0,2023,4,0
-Dublin,Other Africa (6),Departure,0.0,2023,4,0
-Dublin,Asia (8),Arrival,42.3,2023,4,42300
-Dublin,Asia (8),Departure,36.0,2023,4,36000
-Dublin,Bahrain,Arrival,0.0,2023,4,0
-Dublin,Bahrain,Departure,0.0,2023,4,0
-Dublin,Israel,Arrival,1.4,2023,4,1400
-Dublin,Israel,Departure,1.4,2023,4,1400
-Dublin,United Arab Emirates,Arrival,28.8,2023,4,28800
-Dublin,United Arab Emirates,Departure,24.6,2023,4,24600
-Dublin,Other Asian countries (4),Arrival,12.0,2023,4,12000
-Dublin,Other Asian countries (4),Departure,10.0,2023,4,10000
-Dublin,Oceania and Polar regions (1),Arrival,0.0,2023,4,0
-Dublin,Oceania and Polar regions (1),Departure,0.0,2023,4,0
-Dublin,All Countries,Arrival,1491.4,2023,5,1491400
-Dublin,All Countries,Departure,1510.4,2023,5,1510400
-Dublin,Ireland (domestic),Arrival,7.4,2023,5,7400
-Dublin,Ireland (domestic),Departure,6.0,2023,5,6000
-Dublin,Austria,Arrival,8.9,2023,5,8900
-Dublin,Austria,Departure,8.7,2023,5,8700
-Dublin,Belgium,Arrival,22.9,2023,5,22900
-Dublin,Belgium,Departure,23.9,2023,5,23900
-Dublin,Bulgaria,Arrival,4.5,2023,5,4500
-Dublin,Bulgaria,Departure,5.2,2023,5,5200
-Dublin,Croatia,Arrival,15.6,2023,5,15600
-Dublin,Croatia,Departure,17.4,2023,5,17400
-Dublin,Cyprus,Arrival,1.6,2023,5,1600
-Dublin,Cyprus,Departure,1.7,2023,5,1700
-Dublin,Czechia,Arrival,7.0,2023,5,7000
-Dublin,Czechia,Departure,7.4,2023,5,7400
-Dublin,Denmark,Arrival,14.7,2023,5,14700
-Dublin,Denmark,Departure,15.5,2023,5,15500
-Dublin,Estonia,Arrival,0.0,2023,5,0
-Dublin,Estonia,Departure,0.0,2023,5,0
-Dublin,Finland,Arrival,3.0,2023,5,3000
-Dublin,Finland,Departure,3.2,2023,5,3200
-Dublin,France,Arrival,99.4,2023,5,99400
-Dublin,France,Departure,111.6,2023,5,111600
-Dublin,Germany,Arrival,88.2,2023,5,88200
-Dublin,Germany,Departure,90.2,2023,5,90200
-Dublin,Greece,Arrival,17.9,2023,5,17900
-Dublin,Greece,Departure,21.1,2023,5,21100
-Dublin,Hungary,Arrival,7.9,2023,5,7900
-Dublin,Hungary,Departure,8.1,2023,5,8100
-Dublin,Italy,Arrival,84.0,2023,5,84000
-Dublin,Italy,Departure,92.2,2023,5,92200
-Dublin,Latvia,Arrival,4.3,2023,5,4300
-Dublin,Latvia,Departure,4.5,2023,5,4500
-Dublin,Lithuania,Arrival,6.6,2023,5,6600
-Dublin,Lithuania,Departure,6.8,2023,5,6800
-Dublin,Luxembourg,Arrival,4.2,2023,5,4200
-Dublin,Luxembourg,Departure,4.6,2023,5,4600
-Dublin,Malta,Arrival,3.2,2023,5,3200
-Dublin,Malta,Departure,3.3,2023,5,3300
-Dublin,Netherlands,Arrival,52.3,2023,5,52300
-Dublin,Netherlands,Departure,55.8,2023,5,55800
-Dublin,Poland,Arrival,34.8,2023,5,34800
-Dublin,Poland,Departure,35.3,2023,5,35300
-Dublin,Portugal,Arrival,70.1,2023,5,70100
-Dublin,Portugal,Departure,74.8,2023,5,74800
-Dublin,Romania,Arrival,13.1,2023,5,13100
-Dublin,Romania,Departure,12.3,2023,5,12300
-Dublin,Slovakia,Arrival,3.3,2023,5,3300
-Dublin,Slovakia,Departure,3.3,2023,5,3300
-Dublin,Slovenia,Arrival,0.0,2023,5,0
-Dublin,Slovenia,Departure,0.0,2023,5,0
-Dublin,Spain,Arrival,163.7,2023,5,163700
-Dublin,Spain,Departure,174.8,2023,5,174800
-Dublin,Canary Islands,Arrival,39.2,2023,5,39200
-Dublin,Canary Islands,Departure,40.7,2023,5,40700
-Dublin,Sweden,Arrival,9.0,2023,5,9000
-Dublin,Sweden,Departure,9.8,2023,5,9800
-Dublin,EU27 excl Ireland 2020,Arrival,779.3,2023,5,779300
-Dublin,EU27 excl Ireland 2020,Departure,832.1,2023,5,832100
-Dublin,United Kingdom (1),Arrival,403.0,2023,5,403000
-Dublin,United Kingdom (1),Departure,391.0,2023,5,391000
-Dublin,England,Arrival,339.0,2023,5,339000
-Dublin,England,Departure,329.5,2023,5,329500
-Dublin,Northern Ireland,Arrival,0.0,2023,5,0
-Dublin,Northern Ireland,Departure,0.0,2023,5,0
-Dublin,Scotland,Arrival,57.8,2023,5,57800
-Dublin,Scotland,Departure,55.1,2023,5,55100
-Dublin,Wales,Arrival,3.3,2023,5,3300
-Dublin,Wales,Departure,3.3,2023,5,3300
-Dublin,Other UK (1),Arrival,2.9,2023,5,2900
-Dublin,Other UK (1),Departure,3.0,2023,5,3000
-Dublin,Iceland,Arrival,7.2,2023,5,7200
-Dublin,Iceland,Departure,7.5,2023,5,7500
-Dublin,Norway,Arrival,5.6,2023,5,5600
-Dublin,Norway,Departure,6.2,2023,5,6200
-Dublin,Russia,Arrival,0.0,2023,5,0
-Dublin,Russia,Departure,0.0,2023,5,0
-Dublin,Serbia,Arrival,0.0,2023,5,0
-Dublin,Serbia,Departure,0.0,2023,5,0
-Dublin,Switzerland,Arrival,18.2,2023,5,18200
-Dublin,Switzerland,Departure,19.2,2023,5,19200
-Dublin,Turkiye,Arrival,17.2,2023,5,17200
-Dublin,Turkiye,Departure,17.6,2023,5,17600
-Dublin,Other Europe (3),Arrival,4.5,2023,5,4500
-Dublin,Other Europe (3),Departure,4.1,2023,5,4100
-Dublin,Europe (48 Countries),Arrival,1242.4,2023,5,1242400
-Dublin,Europe (48 Countries),Departure,1283.4,2023,5,1283400
-Dublin,America,Arrival,201.8,2023,5,201800
-Dublin,America,Departure,187.0,2023,5,187000
-Dublin,Canada,Arrival,24.0,2023,5,24000
-Dublin,Canada,Departure,24.4,2023,5,24400
-Dublin,United States,Arrival,177.8,2023,5,177800
-Dublin,United States,Departure,162.6,2023,5,162600
-Dublin,Other America (5),Arrival,0.0,2023,5,0
-Dublin,Other America (5),Departure,0.0,2023,5,0
-Dublin,Africa (9),Arrival,5.0,2023,5,5000
-Dublin,Africa (9),Departure,4.6,2023,5,4600
-Dublin,Eygpt,Arrival,1.8,2023,5,1800
-Dublin,Eygpt,Departure,1.3,2023,5,1300
-Dublin,Morocco,Arrival,3.2,2023,5,3200
-Dublin,Morocco,Departure,3.2,2023,5,3200
-Dublin,Tunisia,Arrival,0.0,2023,5,0
-Dublin,Tunisia,Departure,0.0,2023,5,0
-Dublin,Other Africa (6),Arrival,0.0,2023,5,0
-Dublin,Other Africa (6),Departure,0.0,2023,5,0
-Dublin,Asia (8),Arrival,42.3,2023,5,42300
-Dublin,Asia (8),Departure,35.4,2023,5,35400
-Dublin,Bahrain,Arrival,0.0,2023,5,0
-Dublin,Bahrain,Departure,0.0,2023,5,0
-Dublin,Israel,Arrival,1.6,2023,5,1600
-Dublin,Israel,Departure,1.6,2023,5,1600
-Dublin,United Arab Emirates,Arrival,28.4,2023,5,28400
-Dublin,United Arab Emirates,Departure,23.6,2023,5,23600
-Dublin,Other Asian countries (4),Arrival,12.4,2023,5,12400
-Dublin,Other Asian countries (4),Departure,10.2,2023,5,10200
-Dublin,Oceania and Polar regions (1),Arrival,0.0,2023,5,0
-Dublin,Oceania and Polar regions (1),Departure,0.0,2023,5,0
-Dublin,All Countries,Arrival,1547.7,2023,6,1547700
-Dublin,All Countries,Departure,1631.3,2023,6,1631300
-Dublin,Ireland (domestic),Arrival,7.4,2023,6,7400
-Dublin,Ireland (domestic),Departure,6.3,2023,6,6300
-Dublin,Austria,Arrival,8.5,2023,6,8500
-Dublin,Austria,Departure,8.9,2023,6,8900
-Dublin,Belgium,Arrival,21.7,2023,6,21700
-Dublin,Belgium,Departure,23.4,2023,6,23400
-Dublin,Bulgaria,Arrival,4.9,2023,6,4900
-Dublin,Bulgaria,Departure,5.3,2023,6,5300
-Dublin,Croatia,Arrival,18.7,2023,6,18700
-Dublin,Croatia,Departure,19.9,2023,6,19900
-Dublin,Cyprus,Arrival,1.6,2023,6,1600
-Dublin,Cyprus,Departure,1.7,2023,6,1700
-Dublin,Czechia,Arrival,6.9,2023,6,6900
-Dublin,Czechia,Departure,7.6,2023,6,7600
-Dublin,Denmark,Arrival,15.7,2023,6,15700
-Dublin,Denmark,Departure,16.8,2023,6,16800
-Dublin,Estonia,Arrival,0.0,2023,6,0
-Dublin,Estonia,Departure,0.0,2023,6,0
-Dublin,Finland,Arrival,3.1,2023,6,3100
-Dublin,Finland,Departure,3.3,2023,6,3300
-Dublin,France,Arrival,106.3,2023,6,106300
-Dublin,France,Departure,118.3,2023,6,118300
-Dublin,Germany,Arrival,85.3,2023,6,85300
-Dublin,Germany,Departure,95.1,2023,6,95100
-Dublin,Greece,Arrival,21.7,2023,6,21700
-Dublin,Greece,Departure,22.9,2023,6,22900
-Dublin,Hungary,Arrival,7.9,2023,6,7900
-Dublin,Hungary,Departure,8.3,2023,6,8300
-Dublin,Italy,Arrival,92.1,2023,6,92100
-Dublin,Italy,Departure,94.7,2023,6,94700
-Dublin,Latvia,Arrival,4.0,2023,6,4000
-Dublin,Latvia,Departure,4.3,2023,6,4300
-Dublin,Lithuania,Arrival,5.9,2023,6,5900
-Dublin,Lithuania,Departure,6.3,2023,6,6300
-Dublin,Luxembourg,Arrival,4.3,2023,6,4300
-Dublin,Luxembourg,Departure,4.7,2023,6,4700
-Dublin,Malta,Arrival,3.2,2023,6,3200
-Dublin,Malta,Departure,3.2,2023,6,3200
-Dublin,Netherlands,Arrival,52.5,2023,6,52500
-Dublin,Netherlands,Departure,56.9,2023,6,56900
-Dublin,Poland,Arrival,32.0,2023,6,32000
-Dublin,Poland,Departure,33.5,2023,6,33500
-Dublin,Portugal,Arrival,72.4,2023,6,72400
-Dublin,Portugal,Departure,75.6,2023,6,75600
-Dublin,Romania,Arrival,12.2,2023,6,12200
-Dublin,Romania,Departure,14.2,2023,6,14200
-Dublin,Slovakia,Arrival,2.9,2023,6,2900
-Dublin,Slovakia,Departure,3.0,2023,6,3000
-Dublin,Slovenia,Arrival,0.0,2023,6,0
-Dublin,Slovenia,Departure,0.0,2023,6,0
-Dublin,Spain,Arrival,174.5,2023,6,174500
-Dublin,Spain,Departure,181.3,2023,6,181300
-Dublin,Canary Islands,Arrival,40.1,2023,6,40100
-Dublin,Canary Islands,Departure,41.7,2023,6,41700
-Dublin,Sweden,Arrival,10.3,2023,6,10300
-Dublin,Sweden,Departure,10.0,2023,6,10000
-Dublin,EU27 excl Ireland 2020,Arrival,808.7,2023,6,808700
-Dublin,EU27 excl Ireland 2020,Departure,860.9,2023,6,860900
-Dublin,United Kingdom (1),Arrival,401.8,2023,6,401800
-Dublin,United Kingdom (1),Departure,430.4,2023,6,430400
-Dublin,England,Arrival,335.6,2023,6,335600
-Dublin,England,Departure,364.4,2023,6,364400
-Dublin,Northern Ireland,Arrival,0.0,2023,6,0
-Dublin,Northern Ireland,Departure,0.0,2023,6,0
-Dublin,Scotland,Arrival,58.3,2023,6,58300
-Dublin,Scotland,Departure,57.4,2023,6,57400
-Dublin,Wales,Arrival,3.7,2023,6,3700
-Dublin,Wales,Departure,4.0,2023,6,4000
-Dublin,Other UK (1),Arrival,4.3,2023,6,4300
-Dublin,Other UK (1),Departure,4.6,2023,6,4600
-Dublin,Iceland,Arrival,8.4,2023,6,8400
-Dublin,Iceland,Departure,9.0,2023,6,9000
-Dublin,Norway,Arrival,6.0,2023,6,6000
-Dublin,Norway,Departure,6.3,2023,6,6300
-Dublin,Russia,Arrival,0.0,2023,6,0
-Dublin,Russia,Departure,0.0,2023,6,0
-Dublin,Serbia,Arrival,0.0,2023,6,0
-Dublin,Serbia,Departure,0.0,2023,6,0
-Dublin,Switzerland,Arrival,18.9,2023,6,18900
-Dublin,Switzerland,Departure,21.0,2023,6,21000
-Dublin,Turkiye,Arrival,18.5,2023,6,18500
-Dublin,Turkiye,Departure,20.8,2023,6,20800
-Dublin,Other Europe (3),Arrival,4.2,2023,6,4200
-Dublin,Other Europe (3),Departure,5.0,2023,6,5000
-Dublin,Europe (48 Countries),Arrival,1274.0,2023,6,1274000
-Dublin,Europe (48 Countries),Departure,1359.7,2023,6,1359700
-Dublin,America,Arrival,224.1,2023,6,224100
-Dublin,America,Departure,219.3,2023,6,219300
-Dublin,Canada,Arrival,33.2,2023,6,33200
-Dublin,Canada,Departure,34.8,2023,6,34800
-Dublin,United States,Arrival,190.4,2023,6,190400
-Dublin,United States,Departure,183.4,2023,6,183400
-Dublin,Other America (5),Arrival,0.5,2023,6,500
-Dublin,Other America (5),Departure,1.1,2023,6,1100
-Dublin,Africa (9),Arrival,4.3,2023,6,4300
-Dublin,Africa (9),Departure,5.2,2023,6,5200
-Dublin,Eygpt,Arrival,1.3,2023,6,1300
-Dublin,Eygpt,Departure,2.0,2023,6,2000
-Dublin,Morocco,Arrival,3.0,2023,6,3000
-Dublin,Morocco,Departure,3.2,2023,6,3200
-Dublin,Tunisia,Arrival,0.0,2023,6,0
-Dublin,Tunisia,Departure,0.0,2023,6,0
-Dublin,Other Africa (6),Arrival,0.0,2023,6,0
-Dublin,Other Africa (6),Departure,0.0,2023,6,0
-Dublin,Asia (8),Arrival,45.3,2023,6,45300
-Dublin,Asia (8),Departure,47.1,2023,6,47100
-Dublin,Bahrain,Arrival,0.0,2023,6,0
-Dublin,Bahrain,Departure,0.0,2023,6,0
-Dublin,Israel,Arrival,2.0,2023,6,2000
-Dublin,Israel,Departure,1.8,2023,6,1800
-Dublin,United Arab Emirates,Arrival,29.2,2023,6,29200
-Dublin,United Arab Emirates,Departure,30.2,2023,6,30200
-Dublin,Other Asian countries (4),Arrival,14.1,2023,6,14100
-Dublin,Other Asian countries (4),Departure,15.1,2023,6,15100
-Dublin,Oceania and Polar regions (1),Arrival,0.0,2023,6,0
-Dublin,Oceania and Polar regions (1),Departure,0.0,2023,6,0
-Dublin,All Countries,Arrival,1695.6,2023,7,1695600
-Dublin,All Countries,Departure,1689.3,2023,7,1689300
-Dublin,Ireland (domestic),Arrival,8.3,2023,7,8300
-Dublin,Ireland (domestic),Departure,7.4,2023,7,7400
-Dublin,Austria,Arrival,9.1,2023,7,9100
-Dublin,Austria,Departure,9.2,2023,7,9200
-Dublin,Belgium,Arrival,23.9,2023,7,23900
-Dublin,Belgium,Departure,22.3,2023,7,22300
-Dublin,Bulgaria,Arrival,6.3,2023,7,6300
-Dublin,Bulgaria,Departure,6.7,2023,7,6700
-Dublin,Croatia,Arrival,20.0,2023,7,20000
-Dublin,Croatia,Departure,20.0,2023,7,20000
-Dublin,Cyprus,Arrival,1.5,2023,7,1500
-Dublin,Cyprus,Departure,1.6,2023,7,1600
-Dublin,Czechia,Arrival,7.5,2023,7,7500
-Dublin,Czechia,Departure,7.8,2023,7,7800
-Dublin,Denmark,Arrival,14.9,2023,7,14900
-Dublin,Denmark,Departure,15.0,2023,7,15000
-Dublin,Estonia,Arrival,0.0,2023,7,0
-Dublin,Estonia,Departure,0.0,2023,7,0
-Dublin,Finland,Arrival,3.3,2023,7,3300
-Dublin,Finland,Departure,3.7,2023,7,3700
-Dublin,France,Arrival,126.5,2023,7,126500
-Dublin,France,Departure,117.2,2023,7,117200
-Dublin,Germany,Arrival,98.8,2023,7,98800
-Dublin,Germany,Departure,98.5,2023,7,98500
-Dublin,Greece,Arrival,23.2,2023,7,23200
-Dublin,Greece,Departure,24.4,2023,7,24400
-Dublin,Hungary,Arrival,8.7,2023,7,8700
-Dublin,Hungary,Departure,9.1,2023,7,9100
-Dublin,Italy,Arrival,101.9,2023,7,101900
-Dublin,Italy,Departure,98.8,2023,7,98800
-Dublin,Latvia,Arrival,5.5,2023,7,5500
-Dublin,Latvia,Departure,6.0,2023,7,6000
-Dublin,Lithuania,Arrival,6.9,2023,7,6900
-Dublin,Lithuania,Departure,7.3,2023,7,7300
-Dublin,Luxembourg,Arrival,5.0,2023,7,5000
-Dublin,Luxembourg,Departure,4.7,2023,7,4700
-Dublin,Malta,Arrival,3.4,2023,7,3400
-Dublin,Malta,Departure,3.4,2023,7,3400
-Dublin,Netherlands,Arrival,58.8,2023,7,58800
-Dublin,Netherlands,Departure,55.3,2023,7,55300
-Dublin,Poland,Arrival,33.7,2023,7,33700
-Dublin,Poland,Departure,34.4,2023,7,34400
-Dublin,Portugal,Arrival,77.3,2023,7,77300
-Dublin,Portugal,Departure,78.3,2023,7,78300
-Dublin,Romania,Arrival,12.2,2023,7,12200
-Dublin,Romania,Departure,15.9,2023,7,15900
-Dublin,Slovakia,Arrival,5.0,2023,7,5000
-Dublin,Slovakia,Departure,5.1,2023,7,5100
-Dublin,Slovenia,Arrival,0.0,2023,7,0
-Dublin,Slovenia,Departure,0.0,2023,7,0
-Dublin,Spain,Arrival,197.2,2023,7,197200
-Dublin,Spain,Departure,196.2,2023,7,196200
-Dublin,Canary Islands,Arrival,42.0,2023,7,42000
-Dublin,Canary Islands,Departure,44.6,2023,7,44600
-Dublin,Sweden,Arrival,11.7,2023,7,11700
-Dublin,Sweden,Departure,11.9,2023,7,11900
-Dublin,EU27 excl Ireland 2020,Arrival,904.2,2023,7,904200
-Dublin,EU27 excl Ireland 2020,Departure,897.3,2023,7,897300
-Dublin,United Kingdom (1),Arrival,457.0,2023,7,457000
-Dublin,United Kingdom (1),Departure,426.5,2023,7,426500
-Dublin,England,Arrival,385.2,2023,7,385200
-Dublin,England,Departure,358.6,2023,7,358600
-Dublin,Northern Ireland,Arrival,0.4,2023,7,400
-Dublin,Northern Ireland,Departure,0.0,2023,7,0
-Dublin,Scotland,Arrival,63.6,2023,7,63600
-Dublin,Scotland,Departure,60.1,2023,7,60100
-Dublin,Wales,Arrival,3.9,2023,7,3900
-Dublin,Wales,Departure,4.0,2023,7,4000
-Dublin,Other UK (1),Arrival,3.9,2023,7,3900
-Dublin,Other UK (1),Departure,3.9,2023,7,3900
-Dublin,Iceland,Arrival,8.7,2023,7,8700
-Dublin,Iceland,Departure,9.3,2023,7,9300
-Dublin,Norway,Arrival,5.0,2023,7,5000
-Dublin,Norway,Departure,5.3,2023,7,5300
-Dublin,Russia,Arrival,0.0,2023,7,0
-Dublin,Russia,Departure,0.0,2023,7,0
-Dublin,Serbia,Arrival,0.0,2023,7,0
-Dublin,Serbia,Departure,0.0,2023,7,0
-Dublin,Switzerland,Arrival,23.8,2023,7,23800
-Dublin,Switzerland,Departure,21.2,2023,7,21200
-Dublin,Turkiye,Arrival,21.7,2023,7,21700
-Dublin,Turkiye,Departure,24.1,2023,7,24100
-Dublin,Other Europe (3),Arrival,5.0,2023,7,5000
-Dublin,Other Europe (3),Departure,6.1,2023,7,6100
-Dublin,Europe (48 Countries),Arrival,1433.6,2023,7,1433600
-Dublin,Europe (48 Countries),Departure,1397.3,2023,7,1397300
-Dublin,America,Arrival,206.7,2023,7,206700
-Dublin,America,Departure,237.0,2023,7,237000
-Dublin,Canada,Arrival,33.7,2023,7,33700
-Dublin,Canada,Departure,37.2,2023,7,37200
-Dublin,United States,Arrival,171.7,2023,7,171700
-Dublin,United States,Departure,198.8,2023,7,198800
-Dublin,Other America (5),Arrival,1.3,2023,7,1300
-Dublin,Other America (5),Departure,1.0,2023,7,1000
-Dublin,Africa (9),Arrival,5.2,2023,7,5200
-Dublin,Africa (9),Departure,6.0,2023,7,6000
-Dublin,Eygpt,Arrival,2.1,2023,7,2100
-Dublin,Eygpt,Departure,2.6,2023,7,2600
-Dublin,Morocco,Arrival,3.1,2023,7,3100
-Dublin,Morocco,Departure,3.4,2023,7,3400
-Dublin,Tunisia,Arrival,0.0,2023,7,0
-Dublin,Tunisia,Departure,0.0,2023,7,0
-Dublin,Other Africa (6),Arrival,0.0,2023,7,0
-Dublin,Other Africa (6),Departure,0.0,2023,7,0
-Dublin,Asia (8),Arrival,50.1,2023,7,50100
-Dublin,Asia (8),Departure,49.0,2023,7,49000
-Dublin,Bahrain,Arrival,0.0,2023,7,0
-Dublin,Bahrain,Departure,0.0,2023,7,0
-Dublin,Israel,Arrival,2.1,2023,7,2100
-Dublin,Israel,Departure,2.0,2023,7,2000
-Dublin,United Arab Emirates,Arrival,31.4,2023,7,31400
-Dublin,United Arab Emirates,Departure,31.0,2023,7,31000
-Dublin,Other Asian countries (4),Arrival,16.6,2023,7,16600
-Dublin,Other Asian countries (4),Departure,16.0,2023,7,16000
-Dublin,Oceania and Polar regions (1),Arrival,0.0,2023,7,0
-Dublin,Oceania and Polar regions (1),Departure,0.0,2023,7,0
-Dublin,All Countries,Arrival,1723.9,2023,8,1723900
-Dublin,All Countries,Departure,1658.3,2023,8,1658300
-Dublin,Ireland (domestic),Arrival,8.9,2023,8,8900
-Dublin,Ireland (domestic),Departure,7.3,2023,8,7300
-Dublin,Austria,Arrival,9.4,2023,8,9400
-Dublin,Austria,Departure,8.7,2023,8,8700
-Dublin,Belgium,Arrival,22.2,2023,8,22200
-Dublin,Belgium,Departure,22.3,2023,8,22300
-Dublin,Bulgaria,Arrival,6.4,2023,8,6400
-Dublin,Bulgaria,Departure,6.3,2023,8,6300
-Dublin,Croatia,Arrival,21.0,2023,8,21000
-Dublin,Croatia,Departure,19.0,2023,8,19000
-Dublin,Cyprus,Arrival,1.6,2023,8,1600
-Dublin,Cyprus,Departure,1.4,2023,8,1400
-Dublin,Czechia,Arrival,7.8,2023,8,7800
-Dublin,Czechia,Departure,7.6,2023,8,7600
-Dublin,Denmark,Arrival,17.7,2023,8,17700
-Dublin,Denmark,Departure,16.5,2023,8,16500
-Dublin,Estonia,Arrival,0.0,2023,8,0
-Dublin,Estonia,Departure,0.0,2023,8,0
-Dublin,Finland,Arrival,4.0,2023,8,4000
-Dublin,Finland,Departure,3.7,2023,8,3700
-Dublin,France,Arrival,121.5,2023,8,121500
-Dublin,France,Departure,120.5,2023,8,120500
-Dublin,Germany,Arrival,99.3,2023,8,99300
-Dublin,Germany,Departure,94.7,2023,8,94700
-Dublin,Greece,Arrival,23.5,2023,8,23500
-Dublin,Greece,Departure,22.2,2023,8,22200
-Dublin,Hungary,Arrival,8.6,2023,8,8600
-Dublin,Hungary,Departure,8.4,2023,8,8400
-Dublin,Italy,Arrival,101.2,2023,8,101200
-Dublin,Italy,Departure,96.7,2023,8,96700
-Dublin,Latvia,Arrival,6.1,2023,8,6100
-Dublin,Latvia,Departure,6.0,2023,8,6000
-Dublin,Lithuania,Arrival,7.9,2023,8,7900
-Dublin,Lithuania,Departure,7.8,2023,8,7800
-Dublin,Luxembourg,Arrival,4.8,2023,8,4800
-Dublin,Luxembourg,Departure,4.7,2023,8,4700
-Dublin,Malta,Arrival,3.4,2023,8,3400
-Dublin,Malta,Departure,3.3,2023,8,3300
-Dublin,Netherlands,Arrival,56.0,2023,8,56000
-Dublin,Netherlands,Departure,56.4,2023,8,56400
-Dublin,Poland,Arrival,33.8,2023,8,33800
-Dublin,Poland,Departure,33.0,2023,8,33000
-Dublin,Portugal,Arrival,80.1,2023,8,80100
-Dublin,Portugal,Departure,71.4,2023,8,71400
-Dublin,Romania,Arrival,15.0,2023,8,15000
-Dublin,Romania,Departure,13.3,2023,8,13300
-Dublin,Slovakia,Arrival,5.0,2023,8,5000
-Dublin,Slovakia,Departure,4.9,2023,8,4900
-Dublin,Slovenia,Arrival,0.0,2023,8,0
-Dublin,Slovenia,Departure,0.0,2023,8,0
-Dublin,Spain,Arrival,198.3,2023,8,198300
-Dublin,Spain,Departure,184.6,2023,8,184600
-Dublin,Canary Islands,Arrival,44.5,2023,8,44500
-Dublin,Canary Islands,Departure,41.8,2023,8,41800
-Dublin,Sweden,Arrival,11.1,2023,8,11100
-Dublin,Sweden,Departure,10.3,2023,8,10300
-Dublin,EU27 excl Ireland 2020,Arrival,910.4,2023,8,910400
-Dublin,EU27 excl Ireland 2020,Departure,865.5,2023,8,865500
-Dublin,United Kingdom (1),Arrival,461.5,2023,8,461500
-Dublin,United Kingdom (1),Departure,439.6,2023,8,439600
-Dublin,England,Arrival,389.6,2023,8,389600
-Dublin,England,Departure,372.2,2023,8,372200
-Dublin,Northern Ireland,Arrival,0.4,2023,8,400
-Dublin,Northern Ireland,Departure,0.0,2023,8,0
-Dublin,Scotland,Arrival,63.0,2023,8,63000
-Dublin,Scotland,Departure,58.8,2023,8,58800
-Dublin,Wales,Arrival,4.4,2023,8,4400
-Dublin,Wales,Departure,4.4,2023,8,4400
-Dublin,Other UK (1),Arrival,4.2,2023,8,4200
-Dublin,Other UK (1),Departure,4.2,2023,8,4200
-Dublin,Iceland,Arrival,9.2,2023,8,9200
-Dublin,Iceland,Departure,9.5,2023,8,9500
-Dublin,Norway,Arrival,6.2,2023,8,6200
-Dublin,Norway,Departure,6.0,2023,8,6000
-Dublin,Russia,Arrival,0.0,2023,8,0
-Dublin,Russia,Departure,0.0,2023,8,0
-Dublin,Serbia,Arrival,0.0,2023,8,0
-Dublin,Serbia,Departure,0.0,2023,8,0
-Dublin,Switzerland,Arrival,22.1,2023,8,22100
-Dublin,Switzerland,Departure,22.1,2023,8,22100
-Dublin,Turkiye,Arrival,26.6,2023,8,26600
-Dublin,Turkiye,Departure,22.8,2023,8,22800
-Dublin,Other Europe (3),Arrival,6.7,2023,8,6700
-Dublin,Other Europe (3),Departure,5.2,2023,8,5200
-Dublin,Europe (48 Countries),Arrival,1451.7,2023,8,1451700
-Dublin,Europe (48 Countries),Departure,1378.1,2023,8,1378100
-Dublin,America,Arrival,214.4,2023,8,214400
-Dublin,America,Departure,225.9,2023,8,225900
-Dublin,Canada,Arrival,36.1,2023,8,36100
-Dublin,Canada,Departure,37.5,2023,8,37500
-Dublin,United States,Arrival,178.0,2023,8,178000
-Dublin,United States,Departure,188.4,2023,8,188400
-Dublin,Other America (5),Arrival,0.3,2023,8,300
-Dublin,Other America (5),Departure,0.0,2023,8,0
-Dublin,Africa (9),Arrival,5.9,2023,8,5900
-Dublin,Africa (9),Departure,4.6,2023,8,4600
-Dublin,Eygpt,Arrival,2.9,2023,8,2900
-Dublin,Eygpt,Departure,1.8,2023,8,1800
-Dublin,Morocco,Arrival,3.0,2023,8,3000
-Dublin,Morocco,Departure,2.9,2023,8,2900
-Dublin,Tunisia,Arrival,0.0,2023,8,0
-Dublin,Tunisia,Departure,0.0,2023,8,0
-Dublin,Other Africa (6),Arrival,0.0,2023,8,0
-Dublin,Other Africa (6),Departure,0.0,2023,8,0
-Dublin,Asia (8),Arrival,51.9,2023,8,51900
-Dublin,Asia (8),Departure,49.6,2023,8,49600
-Dublin,Bahrain,Arrival,0.0,2023,8,0
-Dublin,Bahrain,Departure,0.0,2023,8,0
-Dublin,Israel,Arrival,2.3,2023,8,2300
-Dublin,Israel,Departure,2.1,2023,8,2100
-Dublin,United Arab Emirates,Arrival,31.9,2023,8,31900
-Dublin,United Arab Emirates,Departure,30.7,2023,8,30700
-Dublin,Other Asian countries (4),Arrival,17.8,2023,8,17800
-Dublin,Other Asian countries (4),Departure,16.9,2023,8,16900
-Dublin,Oceania and Polar regions (1),Arrival,0.0,2023,8,0
-Dublin,Oceania and Polar regions (1),Departure,0.0,2023,8,0
-Dublin,All Countries,Arrival,1533.8,2023,9,1533800
-Dublin,All Countries,Departure,1514.7,2023,9,1514700
-Dublin,Ireland (domestic),Arrival,6.9,2023,9,6900
-Dublin,Ireland (domestic),Departure,6.1,2023,9,6100
-Dublin,Austria,Arrival,8.7,2023,9,8700
-Dublin,Austria,Departure,8.3,2023,9,8300
-Dublin,Belgium,Arrival,21.2,2023,9,21200
-Dublin,Belgium,Departure,20.7,2023,9,20700
-Dublin,Bulgaria,Arrival,6.4,2023,9,6400
-Dublin,Bulgaria,Departure,5.3,2023,9,5300
-Dublin,Croatia,Arrival,19.2,2023,9,19200
-Dublin,Croatia,Departure,16.8,2023,9,16800
-Dublin,Cyprus,Arrival,1.7,2023,9,1700
-Dublin,Cyprus,Departure,1.7,2023,9,1700
-Dublin,Czechia,Arrival,7.6,2023,9,7600
-Dublin,Czechia,Departure,7.4,2023,9,7400
-Dublin,Denmark,Arrival,15.8,2023,9,15800
-Dublin,Denmark,Departure,14.7,2023,9,14700
-Dublin,Estonia,Arrival,0.0,2023,9,0
-Dublin,Estonia,Departure,0.0,2023,9,0
-Dublin,Finland,Arrival,3.2,2023,9,3200
-Dublin,Finland,Departure,2.8,2023,9,2800
-Dublin,France,Arrival,110.1,2023,9,110100
-Dublin,France,Departure,109.9,2023,9,109900
-Dublin,Germany,Arrival,89.3,2023,9,89300
-Dublin,Germany,Departure,86.2,2023,9,86200
-Dublin,Greece,Arrival,22.3,2023,9,22300
-Dublin,Greece,Departure,21.0,2023,9,21000
-Dublin,Hungary,Arrival,8.9,2023,9,8900
-Dublin,Hungary,Departure,7.8,2023,9,7800
-Dublin,Italy,Arrival,92.6,2023,9,92600
-Dublin,Italy,Departure,91.4,2023,9,91400
-Dublin,Latvia,Arrival,4.3,2023,9,4300
-Dublin,Latvia,Departure,4.1,2023,9,4100
-Dublin,Lithuania,Arrival,6.4,2023,9,6400
-Dublin,Lithuania,Departure,6.1,2023,9,6100
-Dublin,Luxembourg,Arrival,4.3,2023,9,4300
-Dublin,Luxembourg,Departure,4.5,2023,9,4500
-Dublin,Malta,Arrival,3.1,2023,9,3100
-Dublin,Malta,Departure,3.0,2023,9,3000
-Dublin,Netherlands,Arrival,53.0,2023,9,53000
-Dublin,Netherlands,Departure,50.3,2023,9,50300
-Dublin,Poland,Arrival,32.3,2023,9,32299
-Dublin,Poland,Departure,30.0,2023,9,30000
-Dublin,Portugal,Arrival,72.4,2023,9,72400
-Dublin,Portugal,Departure,71.5,2023,9,71500
-Dublin,Romania,Arrival,15.5,2023,9,15500
-Dublin,Romania,Departure,11.4,2023,9,11400
-Dublin,Slovakia,Arrival,3.5,2023,9,3500
-Dublin,Slovakia,Departure,3.2,2023,9,3200
-Dublin,Slovenia,Arrival,0.0,2023,9,0
-Dublin,Slovenia,Departure,0.0,2023,9,0
-Dublin,Spain,Arrival,175.1,2023,9,175100
-Dublin,Spain,Departure,174.8,2023,9,174800
-Dublin,Canary Islands,Arrival,42.3,2023,9,42300
-Dublin,Canary Islands,Departure,42.3,2023,9,42300
-Dublin,Sweden,Arrival,10.3,2023,9,10300
-Dublin,Sweden,Departure,8.2,2023,9,8200
-Dublin,EU27 excl Ireland 2020,Arrival,829.3,2023,9,829300
-Dublin,EU27 excl Ireland 2020,Departure,803.3,2023,9,803300
-Dublin,United Kingdom (1),Arrival,374.1,2023,9,374100
-Dublin,United Kingdom (1),Departure,394.3,2023,9,394300
-Dublin,England,Arrival,313.4,2023,9,313400
-Dublin,England,Departure,334.3,2023,9,334300
-Dublin,Northern Ireland,Arrival,0.3,2023,9,300
-Dublin,Northern Ireland,Departure,0.0,2023,9,0
-Dublin,Scotland,Arrival,54.4,2023,9,54400
-Dublin,Scotland,Departure,53.5,2023,9,53500
-Dublin,Wales,Arrival,3.2,2023,9,3200
-Dublin,Wales,Departure,3.4,2023,9,3400
-Dublin,Other UK (1),Arrival,2.7,2023,9,2700
-Dublin,Other UK (1),Departure,3.1,2023,9,3100
-Dublin,Iceland,Arrival,8.1,2023,9,8100
-Dublin,Iceland,Departure,7.8,2023,9,7800
-Dublin,Norway,Arrival,6.3,2023,9,6300
-Dublin,Norway,Departure,5.8,2023,9,5800
-Dublin,Russia,Arrival,0.0,2023,9,0
-Dublin,Russia,Departure,0.0,2023,9,0
-Dublin,Serbia,Arrival,0.0,2023,9,0
-Dublin,Serbia,Departure,0.0,2023,9,0
-Dublin,Switzerland,Arrival,20.0,2023,9,20000
-Dublin,Switzerland,Departure,18.2,2023,9,18200
-Dublin,Turkiye,Arrival,24.3,2023,9,24300
-Dublin,Turkiye,Departure,20.8,2023,9,20800
-Dublin,Other Europe (3),Arrival,6.2,2023,9,6200
-Dublin,Other Europe (3),Departure,4.2,2023,9,4200
-Dublin,Europe (48 Countries),Arrival,1275.2,2023,9,1275200
-Dublin,Europe (48 Countries),Departure,1260.5,2023,9,1260500
-Dublin,America,Arrival,206.6,2023,9,206600
-Dublin,America,Departure,207.5,2023,9,207500
-Dublin,Canada,Arrival,34.8,2023,9,34800
-Dublin,Canada,Departure,34.4,2023,9,34400
-Dublin,United States,Arrival,171.8,2023,9,171800
-Dublin,United States,Departure,173.0,2023,9,173000
-Dublin,Other America (5),Arrival,0.0,2023,9,0
-Dublin,Other America (5),Departure,0.0,2023,9,0
-Dublin,Africa (9),Arrival,5.2,2023,9,5200
-Dublin,Africa (9),Departure,4.3,2023,9,4300
-Dublin,Eygpt,Arrival,2.2,2023,9,2200
-Dublin,Eygpt,Departure,1.6,2023,9,1600
-Dublin,Morocco,Arrival,3.0,2023,9,3000
-Dublin,Morocco,Departure,2.7,2023,9,2700
-Dublin,Tunisia,Arrival,0.0,2023,9,0
-Dublin,Tunisia,Departure,0.0,2023,9,0
-Dublin,Other Africa (6),Arrival,0.0,2023,9,0
-Dublin,Other Africa (6),Departure,0.0,2023,9,0
-Dublin,Asia (8),Arrival,46.9,2023,9,46900
-Dublin,Asia (8),Departure,42.5,2023,9,42500
-Dublin,Bahrain,Arrival,0.0,2023,9,0
-Dublin,Bahrain,Departure,0.0,2023,9,0
-Dublin,Israel,Arrival,1.4,2023,9,1400
-Dublin,Israel,Departure,1.4,2023,9,1400
-Dublin,United Arab Emirates,Arrival,29.1,2023,9,29100
-Dublin,United Arab Emirates,Departure,26.3,2023,9,26300
-Dublin,Other Asian countries (4),Arrival,16.4,2023,9,16400
-Dublin,Other Asian countries (4),Departure,14.8,2023,9,14800
-Dublin,Oceania and Polar regions (1),Arrival,0.0,2023,9,0
-Dublin,Oceania and Polar regions (1),Departure,0.0,2023,9,0
+Country,Direction,VALUE,year,month,real_number
+All Countries,Arrival,1056.4,2023,1,1056400
+All Countries,Departure,1014.5,2023,1,1014500
+Ireland (domestic),Arrival,5.7,2023,1,5700
+Ireland (domestic),Departure,3.7,2023,1,3700
+Austria,Arrival,8.7,2023,1,8700
+Austria,Departure,7.9,2023,1,7900
+Belgium,Arrival,17.4,2023,1,17400
+Belgium,Departure,16.9,2023,1,16900
+Bulgaria,Arrival,6.1,2023,1,6100
+Bulgaria,Departure,5.4,2023,1,5400
+Croatia,Arrival,3.1,2023,1,3100
+Croatia,Departure,2.7,2023,1,2700
+Cyprus,Arrival,0.8,2023,1,800
+Cyprus,Departure,0.7,2023,1,700
+Czechia,Arrival,8.1,2023,1,8100
+Czechia,Departure,7.5,2023,1,7500
+Denmark,Arrival,8.6,2023,1,8600
+Denmark,Departure,8.3,2023,1,8300
+Estonia,Arrival,1.5,2023,1,1500
+Estonia,Departure,1.4,2023,1,1400
+Finland,Arrival,5.1,2023,1,5100
+Finland,Departure,4.8,2023,1,4800
+France,Arrival,72.4,2023,1,72400
+France,Departure,66.2,2023,1,66200
+Germany,Arrival,63.8,2023,1,63800
+Germany,Departure,59.8,2023,1,59800
+Greece,Arrival,2.2,2023,1,2200
+Greece,Departure,2.0,2023,1,2000
+Hungary,Arrival,8.6,2023,1,8600
+Hungary,Departure,7.7,2023,1,7700
+Italy,Arrival,52.6,2023,1,52600
+Italy,Departure,47.6,2023,1,47600
+Latvia,Arrival,4.6,2023,1,4600
+Latvia,Departure,4.4,2023,1,4400
+Lithuania,Arrival,10.1,2023,1,10100
+Lithuania,Departure,8.8,2023,1,8800
+Luxembourg,Arrival,3.5,2023,1,3500
+Luxembourg,Departure,3.5,2023,1,3500
+Malta,Arrival,2.5,2023,1,2500
+Malta,Departure,2.6,2023,1,2600
+Netherlands,Arrival,44.8,2023,1,44800
+Netherlands,Departure,44.9,2023,1,44900
+Poland,Arrival,40.8,2023,1,40800
+Poland,Departure,33.9,2023,1,33900
+Portugal,Arrival,33.1,2023,1,33100
+Portugal,Departure,27.8,2023,1,27800
+Romania,Arrival,17.2,2023,1,17200
+Romania,Departure,10.9,2023,1,10900
+Slovakia,Arrival,5.1,2023,1,5100
+Slovakia,Departure,4.4,2023,1,4400
+Slovenia,Arrival,0.0,2023,1,0
+Slovenia,Departure,0.0,2023,1,0
+Spain,Arrival,85.2,2023,1,85200
+Spain,Departure,73.5,2023,1,73500
+Canary Islands,Arrival,42.7,2023,1,42700
+Canary Islands,Departure,40.0,2023,1,40000
+Sweden,Arrival,2.9,2023,1,2900
+Sweden,Departure,3.2,2023,1,3200
+EU27 excl Ireland 2020,Arrival,551.5,2023,1,551500
+EU27 excl Ireland 2020,Departure,496.9,2023,1,496900
+United Kingdom (1),Arrival,321.8,2023,1,321800
+United Kingdom (1),Departure,335.4,2023,1,335400
+England,Arrival,276.4,2023,1,276400
+England,Departure,288.6,2023,1,288600
+Northern Ireland,Arrival,0.0,2023,1,0
+Northern Ireland,Departure,0.0,2023,1,0
+Scotland,Arrival,42.0,2023,1,42000
+Scotland,Departure,43.1,2023,1,43100
+Wales,Arrival,2.4,2023,1,2400
+Wales,Departure,2.6,2023,1,2600
+Other UK (1),Arrival,1.0,2023,1,1000
+Other UK (1),Departure,1.2,2023,1,1200
+Iceland,Arrival,5.5,2023,1,5500
+Iceland,Departure,5.3,2023,1,5300
+Norway,Arrival,1.8,2023,1,1800
+Norway,Departure,2.0,2023,1,2000
+Russia,Arrival,0.0,2023,1,0
+Russia,Departure,0.0,2023,1,0
+Serbia,Arrival,0.0,2023,1,0
+Serbia,Departure,0.0,2023,1,0
+Switzerland,Arrival,16.4,2023,1,16400
+Switzerland,Departure,16.3,2023,1,16300
+Turkiye,Arrival,13.6,2023,1,13600
+Turkiye,Departure,12.4,2023,1,12400
+Other Europe (3),Arrival,7.4,2023,1,7400
+Other Europe (3),Departure,3.5,2023,1,3500
+Europe (48 Countries),Arrival,923.7,2023,1,923700
+Europe (48 Countries),Departure,875.6,2023,1,875600
+America,Arrival,87.0,2023,1,87000
+America,Departure,94.5,2023,1,94500
+Canada,Arrival,9.3,2023,1,9300
+Canada,Departure,9.8,2023,1,9800
+United States,Arrival,77.7,2023,1,77700
+United States,Departure,84.7,2023,1,84700
+Other America (5),Arrival,0.0,2023,1,0
+Other America (5),Departure,0.0,2023,1,0
+Africa (9),Arrival,5.5,2023,1,5500
+Africa (9),Departure,4.7,2023,1,4700
+Eygpt,Arrival,2.0,2023,1,2000
+Eygpt,Departure,1.4,2023,1,1400
+Morocco,Arrival,3.5,2023,1,3500
+Morocco,Departure,3.3,2023,1,3300
+Tunisia,Arrival,0.0,2023,1,0
+Tunisia,Departure,0.0,2023,1,0
+Other Africa (6),Arrival,0.0,2023,1,0
+Other Africa (6),Departure,0.0,2023,1,0
+Asia (8),Arrival,40.1,2023,1,40100
+Asia (8),Departure,39.7,2023,1,39700
+Bahrain,Arrival,0.0,2023,1,0
+Bahrain,Departure,0.0,2023,1,0
+Israel,Arrival,0.0,2023,1,0
+Israel,Departure,0.0,2023,1,0
+United Arab Emirates,Arrival,28.1,2023,1,28100
+United Arab Emirates,Departure,27.8,2023,1,27800
+Other Asian countries (4),Arrival,12.1,2023,1,12100
+Other Asian countries (4),Departure,11.9,2023,1,11900
+Oceania and Polar regions (1),Arrival,0.0,2023,1,0
+Oceania and Polar regions (1),Departure,0.0,2023,1,0
+All Countries,Arrival,1006.3,2023,2,1006300
+All Countries,Departure,994.0,2023,2,994000
+Ireland (domestic),Arrival,6.2,2023,2,6200
+Ireland (domestic),Departure,4.7,2023,2,4700
+Austria,Arrival,8.6,2023,2,8600
+Austria,Departure,8.4,2023,2,8400
+Belgium,Arrival,17.1,2023,2,17100
+Belgium,Departure,16.5,2023,2,16500
+Bulgaria,Arrival,5.2,2023,2,5200
+Bulgaria,Departure,5.1,2023,2,5100
+Croatia,Arrival,2.2,2023,2,2200
+Croatia,Departure,2.2,2023,2,2200
+Cyprus,Arrival,0.6,2023,2,600
+Cyprus,Departure,0.7,2023,2,700
+Czechia,Arrival,7.3,2023,2,7300
+Czechia,Departure,7.2,2023,2,7200
+Denmark,Arrival,8.5,2023,2,8500
+Denmark,Departure,8.7,2023,2,8700
+Estonia,Arrival,1.3,2023,2,1300
+Estonia,Departure,1.3,2023,2,1300
+Finland,Arrival,4.2,2023,2,4200
+Finland,Departure,3.9,2023,2,3900
+France,Arrival,69.1,2023,2,69100
+France,Departure,66.9,2023,2,66900
+Germany,Arrival,59.7,2023,2,59700
+Germany,Departure,58.7,2023,2,58700
+Greece,Arrival,1.4,2023,2,1400
+Greece,Departure,1.4,2023,2,1400
+Hungary,Arrival,7.0,2023,2,7000
+Hungary,Departure,7.1,2023,2,7100
+Italy,Arrival,49.8,2023,2,49800
+Italy,Departure,50.4,2023,2,50400
+Latvia,Arrival,3.7,2023,2,3700
+Latvia,Departure,3.6,2023,2,3600
+Lithuania,Arrival,8.5,2023,2,8500
+Lithuania,Departure,8.5,2023,2,8500
+Luxembourg,Arrival,3.5,2023,2,3500
+Luxembourg,Departure,3.5,2023,2,3500
+Malta,Arrival,2.1,2023,2,2100
+Malta,Departure,2.1,2023,2,2100
+Netherlands,Arrival,44.3,2023,2,44300
+Netherlands,Departure,41.3,2023,2,41300
+Poland,Arrival,33.6,2023,2,33600
+Poland,Departure,33.0,2023,2,33000
+Portugal,Arrival,30.5,2023,2,30500
+Portugal,Departure,32.0,2023,2,32000
+Romania,Arrival,12.3,2023,2,12300
+Romania,Departure,11.1,2023,2,11100
+Slovakia,Arrival,4.3,2023,2,4300
+Slovakia,Departure,4.1,2023,2,4100
+Slovenia,Arrival,0.0,2023,2,0
+Slovenia,Departure,0.0,2023,2,0
+Spain,Arrival,75.9,2023,2,75900
+Spain,Departure,76.6,2023,2,76600
+Canary Islands,Arrival,37.2,2023,2,37200
+Canary Islands,Departure,36.7,2023,2,36700
+Sweden,Arrival,3.3,2023,2,3300
+Sweden,Departure,3.3,2023,2,3300
+EU27 excl Ireland 2020,Arrival,501.3,2023,2,501300
+EU27 excl Ireland 2020,Departure,494.6,2023,2,494600
+United Kingdom (1),Arrival,347.3,2023,2,347300
+United Kingdom (1),Departure,345.8,2023,2,345800
+England,Arrival,298.6,2023,2,298600
+England,Departure,297.9,2023,2,297900
+Northern Ireland,Arrival,1.2,2023,2,1200
+Northern Ireland,Departure,0.0,2023,2,0
+Scotland,Arrival,42.5,2023,2,42500
+Scotland,Departure,42.7,2023,2,42700
+Wales,Arrival,4.0,2023,2,4000
+Wales,Departure,4.0,2023,2,4000
+Other UK (1),Arrival,1.0,2023,2,1000
+Other UK (1),Departure,1.2,2023,2,1200
+Iceland,Arrival,5.4,2023,2,5400
+Iceland,Departure,5.5,2023,2,5500
+Norway,Arrival,2.6,2023,2,2600
+Norway,Departure,2.7,2023,2,2700
+Russia,Arrival,0.0,2023,2,0
+Russia,Departure,0.0,2023,2,0
+Serbia,Arrival,0.0,2023,2,0
+Serbia,Departure,0.0,2023,2,0
+Switzerland,Arrival,16.5,2023,2,16500
+Switzerland,Departure,16.7,2023,2,16700
+Turkiye,Arrival,10.6,2023,2,10600
+Turkiye,Departure,9.9,2023,2,9900
+Other Europe (3),Arrival,4.6,2023,2,4600
+Other Europe (3),Departure,3.2,2023,2,3200
+Europe (48 Countries),Arrival,894.5,2023,2,894500
+Europe (48 Countries),Departure,883.1,2023,2,883100
+America,Arrival,72.4,2023,2,72400
+America,Departure,74.0,2023,2,74000
+Canada,Arrival,9.0,2023,2,9000
+Canada,Departure,9.2,2023,2,9200
+United States,Arrival,63.4,2023,2,63400
+United States,Departure,64.8,2023,2,64800
+Other America (5),Arrival,0.0,2023,2,0
+Other America (5),Departure,0.0,2023,2,0
+Africa (9),Arrival,4.3,2023,2,4300
+Africa (9),Departure,4.2,2023,2,4200
+Eygpt,Arrival,1.5,2023,2,1500
+Eygpt,Departure,1.5,2023,2,1500
+Morocco,Arrival,2.7,2023,2,2700
+Morocco,Departure,2.7,2023,2,2700
+Tunisia,Arrival,0.0,2023,2,0
+Tunisia,Departure,0.0,2023,2,0
+Other Africa (6),Arrival,0.0,2023,2,0
+Other Africa (6),Departure,0.0,2023,2,0
+Asia (8),Arrival,35.2,2023,2,35200
+Asia (8),Departure,32.7,2023,2,32700
+Bahrain,Arrival,0.0,2023,2,0
+Bahrain,Departure,0.0,2023,2,0
+Israel,Arrival,0.0,2023,2,0
+Israel,Departure,0.0,2023,2,0
+United Arab Emirates,Arrival,24.4,2023,2,24400
+United Arab Emirates,Departure,23.6,2023,2,23600
+Other Asian countries (4),Arrival,10.8,2023,2,10800
+Other Asian countries (4),Departure,9.1,2023,2,9100
+Oceania and Polar regions (1),Arrival,0.0,2023,2,0
+Oceania and Polar regions (1),Departure,0.0,2023,2,0
+All Countries,Arrival,1219.3,2023,3,1219300
+All Countries,Departure,1225.6,2023,3,1225600
+Ireland (domestic),Arrival,4.6,2023,3,4600
+Ireland (domestic),Departure,4.3,2023,3,4300
+Austria,Arrival,10.4,2023,3,10400
+Austria,Departure,10.1,2023,3,10100
+Belgium,Arrival,20.3,2023,3,20300
+Belgium,Departure,20.2,2023,3,20200
+Bulgaria,Arrival,5.0,2023,3,5000
+Bulgaria,Departure,4.8,2023,3,4800
+Croatia,Arrival,3.0,2023,3,3000
+Croatia,Departure,3.9,2023,3,3900
+Cyprus,Arrival,0.9,2023,3,900
+Cyprus,Departure,1.1,2023,3,1100
+Czechia,Arrival,8.4,2023,3,8400
+Czechia,Departure,8.4,2023,3,8400
+Denmark,Arrival,10.9,2023,3,10900
+Denmark,Departure,11.0,2023,3,11000
+Estonia,Arrival,1.2,2023,3,1200
+Estonia,Departure,1.3,2023,3,1300
+Finland,Arrival,4.6,2023,3,4600
+Finland,Departure,4.5,2023,3,4500
+France,Arrival,76.7,2023,3,76700
+France,Departure,81.2,2023,3,81200
+Germany,Arrival,76.4,2023,3,76400
+Germany,Departure,74.2,2023,3,74200
+Greece,Arrival,3.0,2023,3,3000
+Greece,Departure,4.1,2023,3,4100
+Hungary,Arrival,9.3,2023,3,9300
+Hungary,Departure,9.5,2023,3,9500
+Italy,Arrival,60.1,2023,3,60100
+Italy,Departure,62.6,2023,3,62600
+Latvia,Arrival,4.0,2023,3,4000
+Latvia,Departure,4.0,2023,3,4000
+Lithuania,Arrival,8.5,2023,3,8500
+Lithuania,Departure,8.7,2023,3,8700
+Luxembourg,Arrival,4.2,2023,3,4200
+Luxembourg,Departure,4.1,2023,3,4100
+Malta,Arrival,2.3,2023,3,2300
+Malta,Departure,2.3,2023,3,2300
+Netherlands,Arrival,50.9,2023,3,50900
+Netherlands,Departure,52.1,2023,3,52100
+Poland,Arrival,36.3,2023,3,36300
+Poland,Departure,36.5,2023,3,36500
+Portugal,Arrival,40.2,2023,3,40200
+Portugal,Departure,44.1,2023,3,44100
+Romania,Arrival,12.5,2023,3,12500
+Romania,Departure,12.8,2023,3,12800
+Slovakia,Arrival,4.2,2023,3,4200
+Slovakia,Departure,4.1,2023,3,4100
+Slovenia,Arrival,0.0,2023,3,0
+Slovenia,Departure,0.0,2023,3,0
+Spain,Arrival,95.2,2023,3,95200
+Spain,Departure,104.6,2023,3,104600
+Canary Islands,Arrival,39.4,2023,3,39400
+Canary Islands,Departure,40.7,2023,3,40700
+Sweden,Arrival,4.8,2023,3,4800
+Sweden,Departure,4.9,2023,3,4900
+EU27 excl Ireland 2020,Arrival,592.6,2023,3,592600
+EU27 excl Ireland 2020,Departure,615.7,2023,3,615700
+United Kingdom (1),Arrival,394.4,2023,3,394400
+United Kingdom (1),Departure,384.9,2023,3,384900
+England,Arrival,340.4,2023,3,340400
+England,Departure,330.7,2023,3,330700
+Northern Ireland,Arrival,0.0,2023,3,0
+Northern Ireland,Departure,0.0,2023,3,0
+Scotland,Arrival,49.8,2023,3,49800
+Scotland,Departure,49.8,2023,3,49800
+Wales,Arrival,2.8,2023,3,2800
+Wales,Departure,2.9,2023,3,2900
+Other UK (1),Arrival,1.5,2023,3,1500
+Other UK (1),Departure,1.5,2023,3,1500
+Iceland,Arrival,7.1,2023,3,7100
+Iceland,Departure,6.9,2023,3,6900
+Norway,Arrival,3.5,2023,3,3500
+Norway,Departure,3.5,2023,3,3500
+Russia,Arrival,0.0,2023,3,0
+Russia,Departure,0.0,2023,3,0
+Serbia,Arrival,0.0,2023,3,0
+Serbia,Departure,0.0,2023,3,0
+Switzerland,Arrival,19.3,2023,3,19300
+Switzerland,Departure,18.4,2023,3,18400
+Turkiye,Arrival,11.9,2023,3,11900
+Turkiye,Departure,12.6,2023,3,12600
+Other Europe (3),Arrival,3.5,2023,3,3500
+Other Europe (3),Departure,3.7,2023,3,3700
+Europe (48 Countries),Arrival,1036.9,2023,3,1036900
+Europe (48 Countries),Departure,1050.0,2023,3,1050000
+America,Arrival,136.2,2023,3,136200
+America,Departure,135.3,2023,3,135300
+Canada,Arrival,12.3,2023,3,12300
+Canada,Departure,13.1,2023,3,13100
+United States,Arrival,123.9,2023,3,123900
+United States,Departure,122.2,2023,3,122200
+Other America (5),Arrival,0.0,2023,3,0
+Other America (5),Departure,0.0,2023,3,0
+Africa (9),Arrival,4.7,2023,3,4700
+Africa (9),Departure,4.7,2023,3,4700
+Eygpt,Arrival,1.7,2023,3,1700
+Eygpt,Departure,1.7,2023,3,1700
+Morocco,Arrival,3.0,2023,3,3000
+Morocco,Departure,3.0,2023,3,3000
+Tunisia,Arrival,0.0,2023,3,0
+Tunisia,Departure,0.0,2023,3,0
+Other Africa (6),Arrival,0.0,2023,3,0
+Other Africa (6),Departure,0.0,2023,3,0
+Asia (8),Arrival,41.6,2023,3,41600
+Asia (8),Departure,35.6,2023,3,35600
+Bahrain,Arrival,0.0,2023,3,0
+Bahrain,Departure,0.0,2023,3,0
+Israel,Arrival,0.8,2023,3,800
+Israel,Departure,0.6,2023,3,600
+United Arab Emirates,Arrival,28.3,2023,3,28300
+United Arab Emirates,Departure,25.0,2023,3,25000
+Other Asian countries (4),Arrival,12.5,2023,3,12500
+Other Asian countries (4),Departure,9.9,2023,3,9900
+Oceania and Polar regions (1),Arrival,0.0,2023,3,0
+Oceania and Polar regions (1),Departure,0.0,2023,3,0
+All Countries,Arrival,1411.5,2023,4,1411500
+All Countries,Departure,1391.0,2023,4,1391000
+Ireland (domestic),Arrival,6.6,2023,4,6600
+Ireland (domestic),Departure,5.4,2023,4,5400
+Austria,Arrival,8.4,2023,4,8400
+Austria,Departure,8.2,2023,4,8200
+Belgium,Arrival,23.3,2023,4,23300
+Belgium,Departure,21.8,2023,4,21800
+Bulgaria,Arrival,1.5,2023,4,1500
+Bulgaria,Departure,1.7,2023,4,1700
+Croatia,Arrival,10.0,2023,4,10000
+Croatia,Departure,10.8,2023,4,10800
+Cyprus,Arrival,1.4,2023,4,1400
+Cyprus,Departure,1.4,2023,4,1400
+Czechia,Arrival,7.2,2023,4,7200
+Czechia,Departure,7.2,2023,4,7200
+Denmark,Arrival,14.9,2023,4,14900
+Denmark,Departure,15.0,2023,4,15000
+Estonia,Arrival,0.0,2023,4,0
+Estonia,Departure,0.0,2023,4,0
+Finland,Arrival,3.0,2023,4,3000
+Finland,Departure,2.9,2023,4,2900
+France,Arrival,98.0,2023,4,98000
+France,Departure,91.7,2023,4,91700
+Germany,Arrival,90.3,2023,4,90300
+Germany,Departure,87.9,2023,4,87900
+Greece,Arrival,11.2,2023,4,11200
+Greece,Departure,13.1,2023,4,13100
+Hungary,Arrival,8.0,2023,4,8000
+Hungary,Departure,8.0,2023,4,8000
+Italy,Arrival,81.5,2023,4,81500
+Italy,Departure,80.1,2023,4,80100
+Latvia,Arrival,4.2,2023,4,4200
+Latvia,Departure,4.3,2023,4,4300
+Lithuania,Arrival,6.5,2023,4,6500
+Lithuania,Departure,6.5,2023,4,6500
+Luxembourg,Arrival,4.4,2023,4,4400
+Luxembourg,Departure,4.2,2023,4,4200
+Malta,Arrival,3.0,2023,4,3000
+Malta,Departure,3.1,2023,4,3100
+Netherlands,Arrival,54.2,2023,4,54200
+Netherlands,Departure,50.9,2023,4,50900
+Poland,Arrival,34.1,2023,4,34100
+Poland,Departure,33.4,2023,4,33400
+Portugal,Arrival,61.2,2023,4,61200
+Portugal,Departure,60.7,2023,4,60700
+Romania,Arrival,12.7,2023,4,12700
+Romania,Departure,13.3,2023,4,13300
+Slovakia,Arrival,3.3,2023,4,3300
+Slovakia,Departure,3.3,2023,4,3300
+Slovenia,Arrival,0.0,2023,4,0
+Slovenia,Departure,0.0,2023,4,0
+Spain,Arrival,151.9,2023,4,151900
+Spain,Departure,155.0,2023,4,155000
+Canary Islands,Arrival,41.0,2023,4,41000
+Canary Islands,Departure,40.3,2023,4,40300
+Sweden,Arrival,8.4,2023,4,8400
+Sweden,Departure,8.1,2023,4,8100
+EU27 excl Ireland 2020,Arrival,743.6,2023,4,743600
+EU27 excl Ireland 2020,Departure,732.8,2023,4,732800
+United Kingdom (1),Arrival,405.4,2023,4,405400
+United Kingdom (1),Departure,406.9,2023,4,406900
+England,Arrival,344.3,2023,4,344300
+England,Departure,345.1,2023,4,345100
+Northern Ireland,Arrival,0.0,2023,4,0
+Northern Ireland,Departure,0.0,2023,4,0
+Scotland,Arrival,54.4,2023,4,54400
+Scotland,Departure,54.5,2023,4,54500
+Wales,Arrival,3.8,2023,4,3800
+Wales,Departure,4.0,2023,4,4000
+Other UK (1),Arrival,3.0,2023,4,3000
+Other UK (1),Departure,3.2,2023,4,3200
+Iceland,Arrival,7.2,2023,4,7200
+Iceland,Departure,6.7,2023,4,6700
+Norway,Arrival,4.2,2023,4,4200
+Norway,Departure,4.3,2023,4,4300
+Russia,Arrival,0.0,2023,4,0
+Russia,Departure,0.0,2023,4,0
+Serbia,Arrival,0.0,2023,4,0
+Serbia,Departure,0.0,2023,4,0
+Switzerland,Arrival,19.4,2023,4,19400
+Switzerland,Departure,17.6,2023,4,17600
+Turkiye,Arrival,16.6,2023,4,16600
+Turkiye,Departure,17.6,2023,4,17600
+Other Europe (3),Arrival,4.6,2023,4,4600
+Other Europe (3),Departure,5.8,2023,4,5800
+Europe (48 Countries),Arrival,1207.5,2023,4,1207500
+Europe (48 Countries),Departure,1197.1,2023,4,1197100
+America,Arrival,156.8,2023,4,156800
+America,Departure,153.0,2023,4,153000
+Canada,Arrival,16.5,2023,4,16500
+Canada,Departure,16.5,2023,4,16500
+United States,Arrival,140.3,2023,4,140300
+United States,Departure,136.6,2023,4,136600
+Other America (5),Arrival,0.0,2023,4,0
+Other America (5),Departure,0.0,2023,4,0
+Africa (9),Arrival,4.8,2023,4,4800
+Africa (9),Departure,4.9,2023,4,4900
+Eygpt,Arrival,1.9,2023,4,1900
+Eygpt,Departure,1.9,2023,4,1900
+Morocco,Arrival,3.0,2023,4,3000
+Morocco,Departure,3.0,2023,4,3000
+Tunisia,Arrival,0.0,2023,4,0
+Tunisia,Departure,0.0,2023,4,0
+Other Africa (6),Arrival,0.0,2023,4,0
+Other Africa (6),Departure,0.0,2023,4,0
+Asia (8),Arrival,42.3,2023,4,42300
+Asia (8),Departure,36.0,2023,4,36000
+Bahrain,Arrival,0.0,2023,4,0
+Bahrain,Departure,0.0,2023,4,0
+Israel,Arrival,1.4,2023,4,1400
+Israel,Departure,1.4,2023,4,1400
+United Arab Emirates,Arrival,28.8,2023,4,28800
+United Arab Emirates,Departure,24.6,2023,4,24600
+Other Asian countries (4),Arrival,12.0,2023,4,12000
+Other Asian countries (4),Departure,10.0,2023,4,10000
+Oceania and Polar regions (1),Arrival,0.0,2023,4,0
+Oceania and Polar regions (1),Departure,0.0,2023,4,0
+All Countries,Arrival,1491.4,2023,5,1491400
+All Countries,Departure,1510.4,2023,5,1510400
+Ireland (domestic),Arrival,7.4,2023,5,7400
+Ireland (domestic),Departure,6.0,2023,5,6000
+Austria,Arrival,8.9,2023,5,8900
+Austria,Departure,8.7,2023,5,8700
+Belgium,Arrival,22.9,2023,5,22900
+Belgium,Departure,23.9,2023,5,23900
+Bulgaria,Arrival,4.5,2023,5,4500
+Bulgaria,Departure,5.2,2023,5,5200
+Croatia,Arrival,15.6,2023,5,15600
+Croatia,Departure,17.4,2023,5,17400
+Cyprus,Arrival,1.6,2023,5,1600
+Cyprus,Departure,1.7,2023,5,1700
+Czechia,Arrival,7.0,2023,5,7000
+Czechia,Departure,7.4,2023,5,7400
+Denmark,Arrival,14.7,2023,5,14700
+Denmark,Departure,15.5,2023,5,15500
+Estonia,Arrival,0.0,2023,5,0
+Estonia,Departure,0.0,2023,5,0
+Finland,Arrival,3.0,2023,5,3000
+Finland,Departure,3.2,2023,5,3200
+France,Arrival,99.4,2023,5,99400
+France,Departure,111.6,2023,5,111600
+Germany,Arrival,88.2,2023,5,88200
+Germany,Departure,90.2,2023,5,90200
+Greece,Arrival,17.9,2023,5,17900
+Greece,Departure,21.1,2023,5,21100
+Hungary,Arrival,7.9,2023,5,7900
+Hungary,Departure,8.1,2023,5,8100
+Italy,Arrival,84.0,2023,5,84000
+Italy,Departure,92.2,2023,5,92200
+Latvia,Arrival,4.3,2023,5,4300
+Latvia,Departure,4.5,2023,5,4500
+Lithuania,Arrival,6.6,2023,5,6600
+Lithuania,Departure,6.8,2023,5,6800
+Luxembourg,Arrival,4.2,2023,5,4200
+Luxembourg,Departure,4.6,2023,5,4600
+Malta,Arrival,3.2,2023,5,3200
+Malta,Departure,3.3,2023,5,3300
+Netherlands,Arrival,52.3,2023,5,52300
+Netherlands,Departure,55.8,2023,5,55800
+Poland,Arrival,34.8,2023,5,34800
+Poland,Departure,35.3,2023,5,35300
+Portugal,Arrival,70.1,2023,5,70100
+Portugal,Departure,74.8,2023,5,74800
+Romania,Arrival,13.1,2023,5,13100
+Romania,Departure,12.3,2023,5,12300
+Slovakia,Arrival,3.3,2023,5,3300
+Slovakia,Departure,3.3,2023,5,3300
+Slovenia,Arrival,0.0,2023,5,0
+Slovenia,Departure,0.0,2023,5,0
+Spain,Arrival,163.7,2023,5,163700
+Spain,Departure,174.8,2023,5,174800
+Canary Islands,Arrival,39.2,2023,5,39200
+Canary Islands,Departure,40.7,2023,5,40700
+Sweden,Arrival,9.0,2023,5,9000
+Sweden,Departure,9.8,2023,5,9800
+EU27 excl Ireland 2020,Arrival,779.3,2023,5,779300
+EU27 excl Ireland 2020,Departure,832.1,2023,5,832100
+United Kingdom (1),Arrival,403.0,2023,5,403000
+United Kingdom (1),Departure,391.0,2023,5,391000
+England,Arrival,339.0,2023,5,339000
+England,Departure,329.5,2023,5,329500
+Northern Ireland,Arrival,0.0,2023,5,0
+Northern Ireland,Departure,0.0,2023,5,0
+Scotland,Arrival,57.8,2023,5,57800
+Scotland,Departure,55.1,2023,5,55100
+Wales,Arrival,3.3,2023,5,3300
+Wales,Departure,3.3,2023,5,3300
+Other UK (1),Arrival,2.9,2023,5,2900
+Other UK (1),Departure,3.0,2023,5,3000
+Iceland,Arrival,7.2,2023,5,7200
+Iceland,Departure,7.5,2023,5,7500
+Norway,Arrival,5.6,2023,5,5600
+Norway,Departure,6.2,2023,5,6200
+Russia,Arrival,0.0,2023,5,0
+Russia,Departure,0.0,2023,5,0
+Serbia,Arrival,0.0,2023,5,0
+Serbia,Departure,0.0,2023,5,0
+Switzerland,Arrival,18.2,2023,5,18200
+Switzerland,Departure,19.2,2023,5,19200
+Turkiye,Arrival,17.2,2023,5,17200
+Turkiye,Departure,17.6,2023,5,17600
+Other Europe (3),Arrival,4.5,2023,5,4500
+Other Europe (3),Departure,4.1,2023,5,4100
+Europe (48 Countries),Arrival,1242.4,2023,5,1242400
+Europe (48 Countries),Departure,1283.4,2023,5,1283400
+America,Arrival,201.8,2023,5,201800
+America,Departure,187.0,2023,5,187000
+Canada,Arrival,24.0,2023,5,24000
+Canada,Departure,24.4,2023,5,24400
+United States,Arrival,177.8,2023,5,177800
+United States,Departure,162.6,2023,5,162600
+Other America (5),Arrival,0.0,2023,5,0
+Other America (5),Departure,0.0,2023,5,0
+Africa (9),Arrival,5.0,2023,5,5000
+Africa (9),Departure,4.6,2023,5,4600
+Eygpt,Arrival,1.8,2023,5,1800
+Eygpt,Departure,1.3,2023,5,1300
+Morocco,Arrival,3.2,2023,5,3200
+Morocco,Departure,3.2,2023,5,3200
+Tunisia,Arrival,0.0,2023,5,0
+Tunisia,Departure,0.0,2023,5,0
+Other Africa (6),Arrival,0.0,2023,5,0
+Other Africa (6),Departure,0.0,2023,5,0
+Asia (8),Arrival,42.3,2023,5,42300
+Asia (8),Departure,35.4,2023,5,35400
+Bahrain,Arrival,0.0,2023,5,0
+Bahrain,Departure,0.0,2023,5,0
+Israel,Arrival,1.6,2023,5,1600
+Israel,Departure,1.6,2023,5,1600
+United Arab Emirates,Arrival,28.4,2023,5,28400
+United Arab Emirates,Departure,23.6,2023,5,23600
+Other Asian countries (4),Arrival,12.4,2023,5,12400
+Other Asian countries (4),Departure,10.2,2023,5,10200
+Oceania and Polar regions (1),Arrival,0.0,2023,5,0
+Oceania and Polar regions (1),Departure,0.0,2023,5,0
+All Countries,Arrival,1547.7,2023,6,1547700
+All Countries,Departure,1631.3,2023,6,1631300
+Ireland (domestic),Arrival,7.4,2023,6,7400
+Ireland (domestic),Departure,6.3,2023,6,6300
+Austria,Arrival,8.5,2023,6,8500
+Austria,Departure,8.9,2023,6,8900
+Belgium,Arrival,21.7,2023,6,21700
+Belgium,Departure,23.4,2023,6,23400
+Bulgaria,Arrival,4.9,2023,6,4900
+Bulgaria,Departure,5.3,2023,6,5300
+Croatia,Arrival,18.7,2023,6,18700
+Croatia,Departure,19.9,2023,6,19900
+Cyprus,Arrival,1.6,2023,6,1600
+Cyprus,Departure,1.7,2023,6,1700
+Czechia,Arrival,6.9,2023,6,6900
+Czechia,Departure,7.6,2023,6,7600
+Denmark,Arrival,15.7,2023,6,15700
+Denmark,Departure,16.8,2023,6,16800
+Estonia,Arrival,0.0,2023,6,0
+Estonia,Departure,0.0,2023,6,0
+Finland,Arrival,3.1,2023,6,3100
+Finland,Departure,3.3,2023,6,3300
+France,Arrival,106.3,2023,6,106300
+France,Departure,118.3,2023,6,118300
+Germany,Arrival,85.3,2023,6,85300
+Germany,Departure,95.1,2023,6,95100
+Greece,Arrival,21.7,2023,6,21700
+Greece,Departure,22.9,2023,6,22900
+Hungary,Arrival,7.9,2023,6,7900
+Hungary,Departure,8.3,2023,6,8300
+Italy,Arrival,92.1,2023,6,92100
+Italy,Departure,94.7,2023,6,94700
+Latvia,Arrival,4.0,2023,6,4000
+Latvia,Departure,4.3,2023,6,4300
+Lithuania,Arrival,5.9,2023,6,5900
+Lithuania,Departure,6.3,2023,6,6300
+Luxembourg,Arrival,4.3,2023,6,4300
+Luxembourg,Departure,4.7,2023,6,4700
+Malta,Arrival,3.2,2023,6,3200
+Malta,Departure,3.2,2023,6,3200
+Netherlands,Arrival,52.5,2023,6,52500
+Netherlands,Departure,56.9,2023,6,56900
+Poland,Arrival,32.0,2023,6,32000
+Poland,Departure,33.5,2023,6,33500
+Portugal,Arrival,72.4,2023,6,72400
+Portugal,Departure,75.6,2023,6,75600
+Romania,Arrival,12.2,2023,6,12200
+Romania,Departure,14.2,2023,6,14200
+Slovakia,Arrival,2.9,2023,6,2900
+Slovakia,Departure,3.0,2023,6,3000
+Slovenia,Arrival,0.0,2023,6,0
+Slovenia,Departure,0.0,2023,6,0
+Spain,Arrival,174.5,2023,6,174500
+Spain,Departure,181.3,2023,6,181300
+Canary Islands,Arrival,40.1,2023,6,40100
+Canary Islands,Departure,41.7,2023,6,41700
+Sweden,Arrival,10.3,2023,6,10300
+Sweden,Departure,10.0,2023,6,10000
+EU27 excl Ireland 2020,Arrival,808.7,2023,6,808700
+EU27 excl Ireland 2020,Departure,860.9,2023,6,860900
+United Kingdom (1),Arrival,401.8,2023,6,401800
+United Kingdom (1),Departure,430.4,2023,6,430400
+England,Arrival,335.6,2023,6,335600
+England,Departure,364.4,2023,6,364400
+Northern Ireland,Arrival,0.0,2023,6,0
+Northern Ireland,Departure,0.0,2023,6,0
+Scotland,Arrival,58.3,2023,6,58300
+Scotland,Departure,57.4,2023,6,57400
+Wales,Arrival,3.7,2023,6,3700
+Wales,Departure,4.0,2023,6,4000
+Other UK (1),Arrival,4.3,2023,6,4300
+Other UK (1),Departure,4.6,2023,6,4600
+Iceland,Arrival,8.4,2023,6,8400
+Iceland,Departure,9.0,2023,6,9000
+Norway,Arrival,6.0,2023,6,6000
+Norway,Departure,6.3,2023,6,6300
+Russia,Arrival,0.0,2023,6,0
+Russia,Departure,0.0,2023,6,0
+Serbia,Arrival,0.0,2023,6,0
+Serbia,Departure,0.0,2023,6,0
+Switzerland,Arrival,18.9,2023,6,18900
+Switzerland,Departure,21.0,2023,6,21000
+Turkiye,Arrival,18.5,2023,6,18500
+Turkiye,Departure,20.8,2023,6,20800
+Other Europe (3),Arrival,4.2,2023,6,4200
+Other Europe (3),Departure,5.0,2023,6,5000
+Europe (48 Countries),Arrival,1274.0,2023,6,1274000
+Europe (48 Countries),Departure,1359.7,2023,6,1359700
+America,Arrival,224.1,2023,6,224100
+America,Departure,219.3,2023,6,219300
+Canada,Arrival,33.2,2023,6,33200
+Canada,Departure,34.8,2023,6,34800
+United States,Arrival,190.4,2023,6,190400
+United States,Departure,183.4,2023,6,183400
+Other America (5),Arrival,0.5,2023,6,500
+Other America (5),Departure,1.1,2023,6,1100
+Africa (9),Arrival,4.3,2023,6,4300
+Africa (9),Departure,5.2,2023,6,5200
+Eygpt,Arrival,1.3,2023,6,1300
+Eygpt,Departure,2.0,2023,6,2000
+Morocco,Arrival,3.0,2023,6,3000
+Morocco,Departure,3.2,2023,6,3200
+Tunisia,Arrival,0.0,2023,6,0
+Tunisia,Departure,0.0,2023,6,0
+Other Africa (6),Arrival,0.0,2023,6,0
+Other Africa (6),Departure,0.0,2023,6,0
+Asia (8),Arrival,45.3,2023,6,45300
+Asia (8),Departure,47.1,2023,6,47100
+Bahrain,Arrival,0.0,2023,6,0
+Bahrain,Departure,0.0,2023,6,0
+Israel,Arrival,2.0,2023,6,2000
+Israel,Departure,1.8,2023,6,1800
+United Arab Emirates,Arrival,29.2,2023,6,29200
+United Arab Emirates,Departure,30.2,2023,6,30200
+Other Asian countries (4),Arrival,14.1,2023,6,14100
+Other Asian countries (4),Departure,15.1,2023,6,15100
+Oceania and Polar regions (1),Arrival,0.0,2023,6,0
+Oceania and Polar regions (1),Departure,0.0,2023,6,0
+All Countries,Arrival,1695.6,2023,7,1695600
+All Countries,Departure,1689.3,2023,7,1689300
+Ireland (domestic),Arrival,8.3,2023,7,8300
+Ireland (domestic),Departure,7.4,2023,7,7400
+Austria,Arrival,9.1,2023,7,9100
+Austria,Departure,9.2,2023,7,9200
+Belgium,Arrival,23.9,2023,7,23900
+Belgium,Departure,22.3,2023,7,22300
+Bulgaria,Arrival,6.3,2023,7,6300
+Bulgaria,Departure,6.7,2023,7,6700
+Croatia,Arrival,20.0,2023,7,20000
+Croatia,Departure,20.0,2023,7,20000
+Cyprus,Arrival,1.5,2023,7,1500
+Cyprus,Departure,1.6,2023,7,1600
+Czechia,Arrival,7.5,2023,7,7500
+Czechia,Departure,7.8,2023,7,7800
+Denmark,Arrival,14.9,2023,7,14900
+Denmark,Departure,15.0,2023,7,15000
+Estonia,Arrival,0.0,2023,7,0
+Estonia,Departure,0.0,2023,7,0
+Finland,Arrival,3.3,2023,7,3300
+Finland,Departure,3.7,2023,7,3700
+France,Arrival,126.5,2023,7,126500
+France,Departure,117.2,2023,7,117200
+Germany,Arrival,98.8,2023,7,98800
+Germany,Departure,98.5,2023,7,98500
+Greece,Arrival,23.2,2023,7,23200
+Greece,Departure,24.4,2023,7,24400
+Hungary,Arrival,8.7,2023,7,8700
+Hungary,Departure,9.1,2023,7,9100
+Italy,Arrival,101.9,2023,7,101900
+Italy,Departure,98.8,2023,7,98800
+Latvia,Arrival,5.5,2023,7,5500
+Latvia,Departure,6.0,2023,7,6000
+Lithuania,Arrival,6.9,2023,7,6900
+Lithuania,Departure,7.3,2023,7,7300
+Luxembourg,Arrival,5.0,2023,7,5000
+Luxembourg,Departure,4.7,2023,7,4700
+Malta,Arrival,3.4,2023,7,3400
+Malta,Departure,3.4,2023,7,3400
+Netherlands,Arrival,58.8,2023,7,58800
+Netherlands,Departure,55.3,2023,7,55300
+Poland,Arrival,33.7,2023,7,33700
+Poland,Departure,34.4,2023,7,34400
+Portugal,Arrival,77.3,2023,7,77300
+Portugal,Departure,78.3,2023,7,78300
+Romania,Arrival,12.2,2023,7,12200
+Romania,Departure,15.9,2023,7,15900
+Slovakia,Arrival,5.0,2023,7,5000
+Slovakia,Departure,5.1,2023,7,5100
+Slovenia,Arrival,0.0,2023,7,0
+Slovenia,Departure,0.0,2023,7,0
+Spain,Arrival,197.2,2023,7,197200
+Spain,Departure,196.2,2023,7,196200
+Canary Islands,Arrival,42.0,2023,7,42000
+Canary Islands,Departure,44.6,2023,7,44600
+Sweden,Arrival,11.7,2023,7,11700
+Sweden,Departure,11.9,2023,7,11900
+EU27 excl Ireland 2020,Arrival,904.2,2023,7,904200
+EU27 excl Ireland 2020,Departure,897.3,2023,7,897300
+United Kingdom (1),Arrival,457.0,2023,7,457000
+United Kingdom (1),Departure,426.5,2023,7,426500
+England,Arrival,385.2,2023,7,385200
+England,Departure,358.6,2023,7,358600
+Northern Ireland,Arrival,0.4,2023,7,400
+Northern Ireland,Departure,0.0,2023,7,0
+Scotland,Arrival,63.6,2023,7,63600
+Scotland,Departure,60.1,2023,7,60100
+Wales,Arrival,3.9,2023,7,3900
+Wales,Departure,4.0,2023,7,4000
+Other UK (1),Arrival,3.9,2023,7,3900
+Other UK (1),Departure,3.9,2023,7,3900
+Iceland,Arrival,8.7,2023,7,8700
+Iceland,Departure,9.3,2023,7,9300
+Norway,Arrival,5.0,2023,7,5000
+Norway,Departure,5.3,2023,7,5300
+Russia,Arrival,0.0,2023,7,0
+Russia,Departure,0.0,2023,7,0
+Serbia,Arrival,0.0,2023,7,0
+Serbia,Departure,0.0,2023,7,0
+Switzerland,Arrival,23.8,2023,7,23800
+Switzerland,Departure,21.2,2023,7,21200
+Turkiye,Arrival,21.7,2023,7,21700
+Turkiye,Departure,24.1,2023,7,24100
+Other Europe (3),Arrival,5.0,2023,7,5000
+Other Europe (3),Departure,6.1,2023,7,6100
+Europe (48 Countries),Arrival,1433.6,2023,7,1433600
+Europe (48 Countries),Departure,1397.3,2023,7,1397300
+America,Arrival,206.7,2023,7,206700
+America,Departure,237.0,2023,7,237000
+Canada,Arrival,33.7,2023,7,33700
+Canada,Departure,37.2,2023,7,37200
+United States,Arrival,171.7,2023,7,171700
+United States,Departure,198.8,2023,7,198800
+Other America (5),Arrival,1.3,2023,7,1300
+Other America (5),Departure,1.0,2023,7,1000
+Africa (9),Arrival,5.2,2023,7,5200
+Africa (9),Departure,6.0,2023,7,6000
+Eygpt,Arrival,2.1,2023,7,2100
+Eygpt,Departure,2.6,2023,7,2600
+Morocco,Arrival,3.1,2023,7,3100
+Morocco,Departure,3.4,2023,7,3400
+Tunisia,Arrival,0.0,2023,7,0
+Tunisia,Departure,0.0,2023,7,0
+Other Africa (6),Arrival,0.0,2023,7,0
+Other Africa (6),Departure,0.0,2023,7,0
+Asia (8),Arrival,50.1,2023,7,50100
+Asia (8),Departure,49.0,2023,7,49000
+Bahrain,Arrival,0.0,2023,7,0
+Bahrain,Departure,0.0,2023,7,0
+Israel,Arrival,2.1,2023,7,2100
+Israel,Departure,2.0,2023,7,2000
+United Arab Emirates,Arrival,31.4,2023,7,31400
+United Arab Emirates,Departure,31.0,2023,7,31000
+Other Asian countries (4),Arrival,16.6,2023,7,16600
+Other Asian countries (4),Departure,16.0,2023,7,16000
+Oceania and Polar regions (1),Arrival,0.0,2023,7,0
+Oceania and Polar regions (1),Departure,0.0,2023,7,0
+All Countries,Arrival,1723.9,2023,8,1723900
+All Countries,Departure,1658.3,2023,8,1658300
+Ireland (domestic),Arrival,8.9,2023,8,8900
+Ireland (domestic),Departure,7.3,2023,8,7300
+Austria,Arrival,9.4,2023,8,9400
+Austria,Departure,8.7,2023,8,8700
+Belgium,Arrival,22.2,2023,8,22200
+Belgium,Departure,22.3,2023,8,22300
+Bulgaria,Arrival,6.4,2023,8,6400
+Bulgaria,Departure,6.3,2023,8,6300
+Croatia,Arrival,21.0,2023,8,21000
+Croatia,Departure,19.0,2023,8,19000
+Cyprus,Arrival,1.6,2023,8,1600
+Cyprus,Departure,1.4,2023,8,1400
+Czechia,Arrival,7.8,2023,8,7800
+Czechia,Departure,7.6,2023,8,7600
+Denmark,Arrival,17.7,2023,8,17700
+Denmark,Departure,16.5,2023,8,16500
+Estonia,Arrival,0.0,2023,8,0
+Estonia,Departure,0.0,2023,8,0
+Finland,Arrival,4.0,2023,8,4000
+Finland,Departure,3.7,2023,8,3700
+France,Arrival,121.5,2023,8,121500
+France,Departure,120.5,2023,8,120500
+Germany,Arrival,99.3,2023,8,99300
+Germany,Departure,94.7,2023,8,94700
+Greece,Arrival,23.5,2023,8,23500
+Greece,Departure,22.2,2023,8,22200
+Hungary,Arrival,8.6,2023,8,8600
+Hungary,Departure,8.4,2023,8,8400
+Italy,Arrival,101.2,2023,8,101200
+Italy,Departure,96.7,2023,8,96700
+Latvia,Arrival,6.1,2023,8,6100
+Latvia,Departure,6.0,2023,8,6000
+Lithuania,Arrival,7.9,2023,8,7900
+Lithuania,Departure,7.8,2023,8,7800
+Luxembourg,Arrival,4.8,2023,8,4800
+Luxembourg,Departure,4.7,2023,8,4700
+Malta,Arrival,3.4,2023,8,3400
+Malta,Departure,3.3,2023,8,3300
+Netherlands,Arrival,56.0,2023,8,56000
+Netherlands,Departure,56.4,2023,8,56400
+Poland,Arrival,33.8,2023,8,33800
+Poland,Departure,33.0,2023,8,33000
+Portugal,Arrival,80.1,2023,8,80100
+Portugal,Departure,71.4,2023,8,71400
+Romania,Arrival,15.0,2023,8,15000
+Romania,Departure,13.3,2023,8,13300
+Slovakia,Arrival,5.0,2023,8,5000
+Slovakia,Departure,4.9,2023,8,4900
+Slovenia,Arrival,0.0,2023,8,0
+Slovenia,Departure,0.0,2023,8,0
+Spain,Arrival,198.3,2023,8,198300
+Spain,Departure,184.6,2023,8,184600
+Canary Islands,Arrival,44.5,2023,8,44500
+Canary Islands,Departure,41.8,2023,8,41800
+Sweden,Arrival,11.1,2023,8,11100
+Sweden,Departure,10.3,2023,8,10300
+EU27 excl Ireland 2020,Arrival,910.4,2023,8,910400
+EU27 excl Ireland 2020,Departure,865.5,2023,8,865500
+United Kingdom (1),Arrival,461.5,2023,8,461500
+United Kingdom (1),Departure,439.6,2023,8,439600
+England,Arrival,389.6,2023,8,389600
+England,Departure,372.2,2023,8,372200
+Northern Ireland,Arrival,0.4,2023,8,400
+Northern Ireland,Departure,0.0,2023,8,0
+Scotland,Arrival,63.0,2023,8,63000
+Scotland,Departure,58.8,2023,8,58800
+Wales,Arrival,4.4,2023,8,4400
+Wales,Departure,4.4,2023,8,4400
+Other UK (1),Arrival,4.2,2023,8,4200
+Other UK (1),Departure,4.2,2023,8,4200
+Iceland,Arrival,9.2,2023,8,9200
+Iceland,Departure,9.5,2023,8,9500
+Norway,Arrival,6.2,2023,8,6200
+Norway,Departure,6.0,2023,8,6000
+Russia,Arrival,0.0,2023,8,0
+Russia,Departure,0.0,2023,8,0
+Serbia,Arrival,0.0,2023,8,0
+Serbia,Departure,0.0,2023,8,0
+Switzerland,Arrival,22.1,2023,8,22100
+Switzerland,Departure,22.1,2023,8,22100
+Turkiye,Arrival,26.6,2023,8,26600
+Turkiye,Departure,22.8,2023,8,22800
+Other Europe (3),Arrival,6.7,2023,8,6700
+Other Europe (3),Departure,5.2,2023,8,5200
+Europe (48 Countries),Arrival,1451.7,2023,8,1451700
+Europe (48 Countries),Departure,1378.1,2023,8,1378100
+America,Arrival,214.4,2023,8,214400
+America,Departure,225.9,2023,8,225900
+Canada,Arrival,36.1,2023,8,36100
+Canada,Departure,37.5,2023,8,37500
+United States,Arrival,178.0,2023,8,178000
+United States,Departure,188.4,2023,8,188400
+Other America (5),Arrival,0.3,2023,8,300
+Other America (5),Departure,0.0,2023,8,0
+Africa (9),Arrival,5.9,2023,8,5900
+Africa (9),Departure,4.6,2023,8,4600
+Eygpt,Arrival,2.9,2023,8,2900
+Eygpt,Departure,1.8,2023,8,1800
+Morocco,Arrival,3.0,2023,8,3000
+Morocco,Departure,2.9,2023,8,2900
+Tunisia,Arrival,0.0,2023,8,0
+Tunisia,Departure,0.0,2023,8,0
+Other Africa (6),Arrival,0.0,2023,8,0
+Other Africa (6),Departure,0.0,2023,8,0
+Asia (8),Arrival,51.9,2023,8,51900
+Asia (8),Departure,49.6,2023,8,49600
+Bahrain,Arrival,0.0,2023,8,0
+Bahrain,Departure,0.0,2023,8,0
+Israel,Arrival,2.3,2023,8,2300
+Israel,Departure,2.1,2023,8,2100
+United Arab Emirates,Arrival,31.9,2023,8,31900
+United Arab Emirates,Departure,30.7,2023,8,30700
+Other Asian countries (4),Arrival,17.8,2023,8,17800
+Other Asian countries (4),Departure,16.9,2023,8,16900
+Oceania and Polar regions (1),Arrival,0.0,2023,8,0
+Oceania and Polar regions (1),Departure,0.0,2023,8,0
+All Countries,Arrival,1533.8,2023,9,1533800
+All Countries,Departure,1514.7,2023,9,1514700
+Ireland (domestic),Arrival,6.9,2023,9,6900
+Ireland (domestic),Departure,6.1,2023,9,6100
+Austria,Arrival,8.7,2023,9,8700
+Austria,Departure,8.3,2023,9,8300
+Belgium,Arrival,21.2,2023,9,21200
+Belgium,Departure,20.7,2023,9,20700
+Bulgaria,Arrival,6.4,2023,9,6400
+Bulgaria,Departure,5.3,2023,9,5300
+Croatia,Arrival,19.2,2023,9,19200
+Croatia,Departure,16.8,2023,9,16800
+Cyprus,Arrival,1.7,2023,9,1700
+Cyprus,Departure,1.7,2023,9,1700
+Czechia,Arrival,7.6,2023,9,7600
+Czechia,Departure,7.4,2023,9,7400
+Denmark,Arrival,15.8,2023,9,15800
+Denmark,Departure,14.7,2023,9,14700
+Estonia,Arrival,0.0,2023,9,0
+Estonia,Departure,0.0,2023,9,0
+Finland,Arrival,3.2,2023,9,3200
+Finland,Departure,2.8,2023,9,2800
+France,Arrival,110.1,2023,9,110100
+France,Departure,109.9,2023,9,109900
+Germany,Arrival,89.3,2023,9,89300
+Germany,Departure,86.2,2023,9,86200
+Greece,Arrival,22.3,2023,9,22300
+Greece,Departure,21.0,2023,9,21000
+Hungary,Arrival,8.9,2023,9,8900
+Hungary,Departure,7.8,2023,9,7800
+Italy,Arrival,92.6,2023,9,92600
+Italy,Departure,91.4,2023,9,91400
+Latvia,Arrival,4.3,2023,9,4300
+Latvia,Departure,4.1,2023,9,4100
+Lithuania,Arrival,6.4,2023,9,6400
+Lithuania,Departure,6.1,2023,9,6100
+Luxembourg,Arrival,4.3,2023,9,4300
+Luxembourg,Departure,4.5,2023,9,4500
+Malta,Arrival,3.1,2023,9,3100
+Malta,Departure,3.0,2023,9,3000
+Netherlands,Arrival,53.0,2023,9,53000
+Netherlands,Departure,50.3,2023,9,50300
+Poland,Arrival,32.3,2023,9,32299
+Poland,Departure,30.0,2023,9,30000
+Portugal,Arrival,72.4,2023,9,72400
+Portugal,Departure,71.5,2023,9,71500
+Romania,Arrival,15.5,2023,9,15500
+Romania,Departure,11.4,2023,9,11400
+Slovakia,Arrival,3.5,2023,9,3500
+Slovakia,Departure,3.2,2023,9,3200
+Slovenia,Arrival,0.0,2023,9,0
+Slovenia,Departure,0.0,2023,9,0
+Spain,Arrival,175.1,2023,9,175100
+Spain,Departure,174.8,2023,9,174800
+Canary Islands,Arrival,42.3,2023,9,42300
+Canary Islands,Departure,42.3,2023,9,42300
+Sweden,Arrival,10.3,2023,9,10300
+Sweden,Departure,8.2,2023,9,8200
+EU27 excl Ireland 2020,Arrival,829.3,2023,9,829300
+EU27 excl Ireland 2020,Departure,803.3,2023,9,803300
+United Kingdom (1),Arrival,374.1,2023,9,374100
+United Kingdom (1),Departure,394.3,2023,9,394300
+England,Arrival,313.4,2023,9,313400
+England,Departure,334.3,2023,9,334300
+Northern Ireland,Arrival,0.3,2023,9,300
+Northern Ireland,Departure,0.0,2023,9,0
+Scotland,Arrival,54.4,2023,9,54400
+Scotland,Departure,53.5,2023,9,53500
+Wales,Arrival,3.2,2023,9,3200
+Wales,Departure,3.4,2023,9,3400
+Other UK (1),Arrival,2.7,2023,9,2700
+Other UK (1),Departure,3.1,2023,9,3100
+Iceland,Arrival,8.1,2023,9,8100
+Iceland,Departure,7.8,2023,9,7800
+Norway,Arrival,6.3,2023,9,6300
+Norway,Departure,5.8,2023,9,5800
+Russia,Arrival,0.0,2023,9,0
+Russia,Departure,0.0,2023,9,0
+Serbia,Arrival,0.0,2023,9,0
+Serbia,Departure,0.0,2023,9,0
+Switzerland,Arrival,20.0,2023,9,20000
+Switzerland,Departure,18.2,2023,9,18200
+Turkiye,Arrival,24.3,2023,9,24300
+Turkiye,Departure,20.8,2023,9,20800
+Other Europe (3),Arrival,6.2,2023,9,6200
+Other Europe (3),Departure,4.2,2023,9,4200
+Europe (48 Countries),Arrival,1275.2,2023,9,1275200
+Europe (48 Countries),Departure,1260.5,2023,9,1260500
+America,Arrival,206.6,2023,9,206600
+America,Departure,207.5,2023,9,207500
+Canada,Arrival,34.8,2023,9,34800
+Canada,Departure,34.4,2023,9,34400
+United States,Arrival,171.8,2023,9,171800
+United States,Departure,173.0,2023,9,173000
+Other America (5),Arrival,0.0,2023,9,0
+Other America (5),Departure,0.0,2023,9,0
+Africa (9),Arrival,5.2,2023,9,5200
+Africa (9),Departure,4.3,2023,9,4300
+Eygpt,Arrival,2.2,2023,9,2200
+Eygpt,Departure,1.6,2023,9,1600
+Morocco,Arrival,3.0,2023,9,3000
+Morocco,Departure,2.7,2023,9,2700
+Tunisia,Arrival,0.0,2023,9,0
+Tunisia,Departure,0.0,2023,9,0
+Other Africa (6),Arrival,0.0,2023,9,0
+Other Africa (6),Departure,0.0,2023,9,0
+Asia (8),Arrival,46.9,2023,9,46900
+Asia (8),Departure,42.5,2023,9,42500
+Bahrain,Arrival,0.0,2023,9,0
+Bahrain,Departure,0.0,2023,9,0
+Israel,Arrival,1.4,2023,9,1400
+Israel,Departure,1.4,2023,9,1400
+United Arab Emirates,Arrival,29.1,2023,9,29100
+United Arab Emirates,Departure,26.3,2023,9,26300
+Other Asian countries (4),Arrival,16.4,2023,9,16400
+Other Asian countries (4),Departure,14.8,2023,9,14800
+Oceania and Polar regions (1),Arrival,0.0,2023,9,0
+Oceania and Polar regions (1),Departure,0.0,2023,9,0
